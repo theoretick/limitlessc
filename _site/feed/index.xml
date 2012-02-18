@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Recursive</title>
+ <link href="http://recursive-design.com/feed/" rel="self"/>
+ <link href="http://recursive-design.com/"/>
+ <updated>2012-02-18T15:52:39-08:00</updated>
+ <id>http://recursive-design.com/</id>
+ <author>
+   <name>Recursive</name>
+   <email>mail@recursive-design.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>On Posting</title>
+   <link href="http://recursive-design.com/updates/2012/01/14/On-Posting.html"/>
+   <updated>2012-01-14T00:00:00-08:00</updated>
+   <id>http://recursive-design.com/updates/2012/01/14/On-Posting</id>
+   <content type="html">&lt;p&gt;I apologize for completely falling off the map. I&amp;#8217;ve been nuts busy with school (this is my last semester at my university) and am constantly struggling with my attempt to appreciate higher education while being completely burnt out and wanting to get out. Meanwhile, I have acquired Skyrim and that thing has monopolized all my time since I have a video game problem that I will occasionally lapse back into. Between those two things I haven&amp;#8217;t been present much at all in the webosphere, especially the blogsphere but still only rare twitter/g+/facebook/etc posts.&lt;/p&gt;
+
+&lt;p&gt;I have just recommitted to keeping up my online presence and I hope to keep it going pretty soon again. Sorry for the low-flow, I&amp;#8217;m working on fixing that up. Meanwhile, Squarespace is damn expensive. I will be moving my blog as soon as I am able as well and given my limited past commitment to WebDev, that may be quick or it may take a painfully long time to transition (probably the latter).&lt;/p&gt;
+
+&lt;p&gt;Cheers.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
