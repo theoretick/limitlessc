@@ -1,0 +1,15 @@
+---
+layout: default
+comments: true
+---
+
+<div class="post" id="main-content">
+	<h2>{{page.title}}</h2>
+	<p class="timestamp">
+		{{page.date | format_date %d%a%Y}} | {% if page.category %} <a href="/categories/{{page.category}}">{{page.category}}</a> {% endif %} | author: theoretick
+	</p>
+	<div class="content">
+	{{ content }}
+	</div>
+	
+</div>

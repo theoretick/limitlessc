@@ -1,0 +1,11 @@
+<div class="post-listing">
+  <div class="inner">
+    <span class="title">
+    <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    {% if post.url %}<a href="{{post.url}}">{% endif %}
+      {{ post.title }}
+    {% if post.url %}</a>{% endif %}
+    </span>
+    </span>
+  </div>
+</div>

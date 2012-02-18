@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Limitless Channels</h1>
+<br />
+<h2>latest</h2>
+
+<div class="latest">
+{% assign posts = site.posts %}
+{% assign listing_limit = 4 %}
+{% include post-listing-index.html %}
+</div>
