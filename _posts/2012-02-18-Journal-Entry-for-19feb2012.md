@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Journal Entry for 19feb2012
+date: 2012-02-19
 category: journal
 tags:
  - journal

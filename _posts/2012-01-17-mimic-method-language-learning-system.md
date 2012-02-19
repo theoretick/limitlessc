@@ -2,7 +2,7 @@
 layout: post
 title: Mimic Method - Language Learning System
 category: Language
-date: 01-17-2012
+date: 2012-01-17
 tags:
  - langauge
  - linguistics
