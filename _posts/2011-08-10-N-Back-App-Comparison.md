@@ -1,33 +1,18 @@
 ---
-
 layout: post
-
 title: Android N-Back App Comparison
 date: 2011-08-10 19:28:00
-
 category: reviews
 tags:
-
-
  - apps
  - reviews
  - brainhack
  - android
 description: update on blogging status and life
-
 ---
 
-
-I apologize for completely falling off the map.  I've been nuts busy with school (this is my last semester at my university) and am constantly struggling with my attempt to appreciate higher education while being completely burnt out and wanting to get out.  Meanwhile, I have acquired Skyrim and that thing has monopolized all my time since I have a video game problem that I will occasionally lapse back into.  Between those two things I haven't been present much at all in the webosphere, especially the blogsphere but still only rare twitter/g+/facebook/etc posts.
-
-I have just recommitted to keeping up my online presence and I hope to keep it going pretty soon again. Sorry for the low-flow, I'm working on fixing that up.  Meanwhile, Squarespace is damn expensive.  I will be moving my blog as soon as I am able as well and given my limited past commitment to WebDev, that may be quick or it may take a painfully long time to transition (probably the latter).
-
-Cheers.
-
-
-
 <p style="text-align: center;"><em style="font-size: 90%;">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="http://bit.ly/r6g9r7" target="_blank">What Exactly is N-Back?</a></em></p>
-
+-----
 
 <p><strong>Bit of Background</strong>: Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer. &nbsp;Best case scenario I find a universally-compatible program with a desktop and mobile component. &nbsp;While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on. &nbsp;Until I perfect that script anyway, I will stick entirely to my Android phone. &nbsp;Which app is the best? &nbsp;Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
 <p>&nbsp;</p>
@@ -108,19 +93,10 @@ Cheers.
 <li><strong>Better statistics</strong>, that is the ability to review previous days in detail</li>
 <li><strong>Session limits for the day</strong>, i.e. stopping at 20 rather than infinite regression</li>
 </ul>
-<p>&nbsp;</p>
+<br />
 -----
-EXCERPT:
-<p><em style="font-size: 90%;"><span style="font-size: 90%;">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="http://bit.ly/r6g9r7" target="_blank">What Exactly is N-Back?</a></span></em></p>
-<p>&nbsp;</p>
-<p>&nbsp; Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer. &nbsp;Best case scenario I find a universally-compatible program with a desktop and mobile component. &nbsp;While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on. &nbsp;Until I perfect that script anyway, I will stick entirely to my Android phone. &nbsp;Which app is the best? &nbsp;Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
-<p>There are currently <span style="text-decoration: line-through;">&nbsp;4 </span>&nbsp;6 main candidates in the app market: Quazar's&nbsp;<a href="https://market.android.com/details?id=quazar.BrainNBack&amp;feature=search_result" target="_blank">Brain N Back</a>, Nguyen's&nbsp;<a href="https://market.android.com/details?id=phuc.entertainment.dualnback&amp;feature=search_result" target="_blank">Brain N-Back</a>, Polytech's&nbsp;<a href="https://market.android.com/details?id=com.Projet4A.DualNBack&amp;feature=search_result" target="_blank">DualNBack</a>, and Piotr's&nbsp;<a href="https://market.android.com/details?id=cz.wie.p.nback&amp;feature=search_result" target="_blank">N-Back</a>. &nbsp;Given the complete lack of creative naming this review might get absurdly confusing, so I'll try and use the author's name for these.&nbsp; Oh, also there is <a href="https://market.android.com/details?id=waterdev.NBack&amp;feature=search_result" target="_blank">Waterdev's NBack</a>&nbsp;and <a href="https://market.android.com/details?id=appinventor.ai_viana_octavio.IQ_Boost_free&amp;feature=search_result" target="_blank">IQBoost</a>&nbsp;<span style="text-decoration: line-through;">but since I'm a cheap bastard right now, I haven't quite gone out and bought this these</span> since I wasn't super satisfied with all the other offerings, I decided to try out these two, as well.</p>
-<p>&nbsp;</p>
+COMMENTS:
 -----
-COMMENT:
 AUTHOR: Roman
-EMAIL: nono@no.com
-IP: 78.137.24.148
-URL: 
 DATE: 10/15/2011 01:29:51 PM
 <p>Thanks for detailed review, saved hours of my life.<br/>I have 4&quot; screen so will try best and second best app.</p>

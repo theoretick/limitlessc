@@ -1,5 +1,6 @@
 ---
-Title: Mimic Method: Language Learning System
+layout: post
+Title: Mimic Method - Language Learning System
 Category: language
 Tags:
  - language
