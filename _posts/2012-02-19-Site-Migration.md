@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Site Migration
-date: 02-19-2012
+date: 2012-02-19
 category: site
 tags:
  - code
