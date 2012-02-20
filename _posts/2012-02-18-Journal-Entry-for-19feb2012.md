@@ -1,11 +1,12 @@
 ---
-Layout: post
-Title: Journal Entry for 19feb2012
-Category: journal
-Tags:
+layout: post
+title: Journal Entry for 19feb2012
+date: 2012-02-19
+category: journal
+tags:
  - journal
  - writing
-Description: Journal entry for February 19th, 2012
+description: Journal entry for February 19th, 2012
 ---
 
 This day was a musical one.  I went with a friend to the Oregon Symphony to see one of (allegedly) the world's best pianists, Jeffrey Kahane, performing Mozart's Concerto No. 25 along with a few other pieces.  I personally preferred Cockaigne's "In London Town" due to my preference for dynamics over... whatever the alternative is.  It is a queer feeling to hear what is very often considered the greatest music to ever exist.  Perhaps its "perfection" lulls me enough to not recognize the brilliance of the piece, but as I said, the dynamics of such craziness as Cockaigne (easy to remember as pronunciation follows the nose-candy namesake) seem more memorable.

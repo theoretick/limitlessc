@@ -2,13 +2,13 @@
 layout: post
 title: Android N-Back App Comparison
 date: 2011-08-10 19:28:00
-category: reviews
+category: main
 tags:
  - apps
  - reviews
  - brainhack
  - android
-description: update on blogging status and life
+description: comparison of all currently available Android N-Back apps
 ---
 
 <p style="text-align: center;"><em style="font-size: 90%;">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="http://bit.ly/r6g9r7" target="_blank">What Exactly is N-Back?</a></em></p>
