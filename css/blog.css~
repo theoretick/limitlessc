@@ -26,6 +26,6 @@ h1,h2,h3 {font-weight:400;}
 .readmore {text-align:right; margin:0 20px 30px 0;}
 .timestamp {font-size:1.2em; margin:-5px 0 15px 0;}
 .timestamp a {font-weight:normal;}
-.credits {font-size:0.8em; color:#777; margin:10px;}
+.credits {font-size:0.8em; color:#777; margin:5px;}
 .credits a {color:#777;}
 .clear {clear:both;}
