@@ -16,9 +16,9 @@ This project was made possible by ,, Gwern's excellent <a href="http://gwern.net
 
 The source for my site is hosted over on github.  I edit the source files locally, push them to my server and to Github with git, and then on the serverside Jekyll builds the static content and voila.
 
-Rather than start from complete scratch I looked for an ultraminimal html/css pair to build off and discovered the beautiful and clean templates of <a href="http://andreasviklund.com">Andreas Viklun.</a>
+Rather than start from complete scratch I looked for an ultraminimal html/css pair to build off and discovered the beautiful and clean templates of Andrea Viklun.
 
-Hosting is provided by <a href="http://nearlyfreespeech.net">NearlyFreeSpeech.net</a>(Recommended by Gwern).  It's early but NFSN seems great so far.  It is a pay-as-you-go provider, which makes it a very affordable venture and transition from the ~$20 a month I was paying at Squarespace.
+Hosting is provided by NearlyFreeSpeech.net (Recommended by Gwern).  It's early but NFSN seems great so far.  It is a pay-as-you-go provider, which makes it a very affordable venture and transition from the ~$20 a month I was paying at Squarespace.
 
 
 hosting
