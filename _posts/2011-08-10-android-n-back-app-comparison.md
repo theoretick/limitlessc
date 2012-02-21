@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android N-Back App Comparison
-date: 2011-08-10 19:28:00
+date: 2011-08-10
 category: main
 tags:
  - apps
