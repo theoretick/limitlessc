@@ -2,7 +2,7 @@
 layout: post
 title: On Posting
 date: 2012-02-15 00:00:00
-category: updates
+category: main
 tags:
  - updates
  - journal
