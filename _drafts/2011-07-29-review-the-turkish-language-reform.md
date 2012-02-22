@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: The Turkish Language Reform
+title: Review - The Turkish Language Reform
 category: reviews
 date: 2011-07-29
 description: Review of the book "The Turkish Language Reform: A Catastrophic Success"
