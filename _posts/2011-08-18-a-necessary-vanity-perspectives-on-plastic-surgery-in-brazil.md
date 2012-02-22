@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Necessary Vanity: Perspectives on Plastic Surgery in Brazil
+title: A Necessary Vanity - Perspectives on Plastic Surgery in Brazil
 date: 2011-08-18
 category: neuroscience
 tags:
