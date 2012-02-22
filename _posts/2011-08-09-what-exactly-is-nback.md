@@ -28,7 +28,7 @@ description: Quick explanation of N-Back for reference
 COMMENT:
 -----
 AUTHOR: gwern
-<!-EMAIL: gwern0@gmail.com>
+<!--EMAIL: gwern0@gmail.com-->
 URL: http://www.gwern.net
 date: 10/02/2011 07:28:17 PM
 <p>&gt; Since then, a variety of testing has occurred and in terms of cognitive training, N-Back has proved surprisingly robust in both its short term and long term improvements. </p><p>http://www.gwern.net/DNB%20FAQ#criticism</p>
