@@ -83,7 +83,7 @@ description: comparison of all currently available Android N-Back apps
 <br />
 
 <p><strong><span style="text-decoration: underline;">IQ Boost (free or $1.00):</span></strong></p>
-<p><strong></strong>Here's the other paid Nback in the market, nearly brand new having been posted only two weeks ago. IQBoost is a iOS port that has finally made it to Android. The interface is well constructed with quality sound and graphics, yet it has only a few options for defining task.</p>
+<p><strong></strong>Here's the other paid Nback in the market, nearly brand new having been posted only two weeks ago. IQBoost is a iOS port that has finally made it to Android. The interface is well constructed with quality sound and graphics, yet it has only a few options for defining task.</strong></p>
 <p><span class="full-image-float-left ssNonEditable"><img style="width: 150px;" src="/images/nback/IQBoost.png" alt="" /></span> + Variable stimulus; either sound, spatial, or both</p>
 <p> - Only single or dual N-back possible</p>
 <p> - Unique style. Audio stimulus uses farm animals rather than letters or numbers</p>
