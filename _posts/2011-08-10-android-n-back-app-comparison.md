@@ -96,7 +96,7 @@ description: comparison of all currently available Android N-Back apps
 
 <p><strong><span style="text-decoration: underline;">The Winner:</span></strong></p>
 <p>Piotr's NBack clearly has the best feature set and options that I really want in an app, yet awkward layout (at least for my 4.3 screen) and while it has most of what I'm looking for, one other seems to bring it all together in the most packaged and balanced way, so without further ado:</p>
-<p><strong>Nguyen's N-Back!M</strong></p>
+<p><strong>Nguyen's N-Back!</strong></p>
 <p>While there are a couple features still lacking, Nguyen's still had the greatest balance of features with the right amount of interface polish. While it still lacks some certain features, Nguyen appears to be a pretty great dev who responds to all requests, so I'll be submitting my desired features and we shall see if we can't make the best on so far a bit better. Meanwhile, if you feel like supporting him, there's a <a class="offsite-link-inline" href="https://market.android.com/details?id=phuc.entertainment.dualnbackpremium&amp;feature=search_result" target="_blank">"premium" ad-free version on the market</a>.</p>
 <p>I'm still not entirely satisfied with the apps available right now, so until I get a few more features or stability in each, I'll be sticking with Nguyen's.</p>
 <p><strong>Things I still want:</strong></p>
