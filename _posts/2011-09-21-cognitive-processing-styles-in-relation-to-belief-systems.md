@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cognitive Processing Styles in relation to Belief Systems: Atheism and Autism
+title: Cognitive Processing Styles in relation to Belief Systems - Atheism and Autism
 date: 2011-09-21
 category: neuroscience
 tags:
