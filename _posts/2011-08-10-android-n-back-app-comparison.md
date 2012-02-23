@@ -22,7 +22,7 @@ description: comparison of all currently available Android N-Back apps
 <p><strong><span style="text-decoration: underline;">Quazar's Brain N Back<strong>&nbsp;(free)</strong>:</span></strong></p>
 <p>Quazar's app is about as bare-bones as you can get, it's for doing N-Backs and that's about it.</p>
 <div></div>
-<p><span style="white-space: pre;"><span class="full-image-float-left ssNonEditable"><a href="https://market.android.com/details?id=quazar.BrainNBack&amp;feature=search_result" target="_blank"><img style="width: 150px;" src="/images/n-back/quazar.jpg" alt="" /></a></span></span></p>
+<p><a href="https://market.android.com/details?id=quazar.BrainNBack&amp;feature=search_result" target="_blank"><img style="width: 150px;" src="/images/n-back/quazar.jpg" alt="" /></a></p>
 <p><span style="white-space: pre;"> </span>+ Choice of Single, Dual, or Triple N-Back</p>
 <p><span style="white-space: pre;"> </span>- No statistics</p>
 <p><span style="white-space: pre;"> </span>- No resuming</p>
