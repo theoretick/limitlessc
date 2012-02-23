@@ -48,7 +48,7 @@ description: comparison of all currently available Android N-Back apps
 <p><strong><br /></strong></p>
 
 <p><strong><span style="text-decoration: underline;">Polytech Marseille's DualNBack (free):</span></strong></p>
-<p>&nbsp;As the name states, this is for purely <em>Dual</em> N-Back.  That being said, there's still N- adjustment and a clean interface for getting it done.  Unfortunately, the recorded audio-letter stimulus is so horrible I can't legitimately tell if it is French or English; I only say French due to the app's name.</p>
+<p> As the name states, this is for purely <em>Dual</em> N-Back.  That being said, there's still N- adjustment and a clean interface for getting it done.  Unfortunately, the recorded audio-letter stimulus is so horrible I can't legitimately tell if it is French or English; I only say French due to the app's name.</p>
 <div></div>
 <p><span class="full-image-float-left ssNonEditable"><a href="https://market.android.com/details?id=com.Projet4A.DualNBack&amp;feature=search_result" target="_blank"><img style="width: 150px;" src="/images/nback/polytechmarseille.png" alt="" /></a></span></p>
 <p> + Clean Interface</p>
@@ -56,7 +56,7 @@ description: comparison of all currently available Android N-Back apps
 <p> - Virtually no adjustment otherwise (stimulus, sessions, orientation, etc.)</p>
 <p> - No statistics</p>
 <br />
-<p><strong><span style="white-space: pre;">&nbsp;</span>Rating: 3 / 10</strong></p>
+<p><strong> Rating: 3 / 10</strong></p>
 <br />
 
 <p><strong><span style="text-decoration: underline;">Piotr's N-Back (free):</span></strong></p>
@@ -95,7 +95,7 @@ description: comparison of all currently available Android N-Back apps
 
 <p><strong><span style="text-decoration: underline;">The Winner:</span></strong></p>
 <p>Piotr's NBack clearly has the best feature set and options that I really want in an app, yet awkward layout (at least for my 4.3 screen) and while it has most of what I'm looking for, one other seems to bring it all together in the most packaged and balanced way, so without further ado:</p>
-<p><strong>Nguyen's N-Back!</p>
+<p><strong>Nguyen's N-Back!M</strong></p>
 <p>While there are a couple features still lacking, Nguyen's still had the greatest balance of features with the right amount of interface polish. While it still lacks some certain features, Nguyen appears to be a pretty great dev who responds to all requests, so I'll be submitting my desired features and we shall see if we can't make the best on so far a bit better. Meanwhile, if you feel like supporting him, there's a <a class="offsite-link-inline" href="https://market.android.com/details?id=phuc.entertainment.dualnbackpremium&amp;feature=search_result" target="_blank">"premium" ad-free version on the market</a>.</p>
 <p>I'm still not entirely satisfied with the apps available right now, so until I get a few more features or stability in each, I'll be sticking with Nguyen's.</p>
 <p><strong>Things I still want:</strong></p>
