@@ -3,10 +3,10 @@ layout: post
 title: Right-handers sit to right to optimize neuroprocessing of films
 date: 2011-09-11
 category: neuroscience
+tags:
  - research
  - films
  - neuroscience
-tags:
 description:
 ---
 

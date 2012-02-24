@@ -17,7 +17,7 @@ description: mapping of my personal American English vowel pronunciations
 <tbody>
 </tbody>
 </table>
-<p>﻿﻿<span class="full-image-block ssNonEditable"><span><img style="width: 600px;" src="/storage/VowelRange.png?__SQUARESPACE_CACHEVERSION=1319347220856" alt="" /></span></span></p>
+<p><img style="width: 600px;" src="/images/VowelRange.png" alt=""/></p>
 <table border="0" cellspacing="0" frame="VOID" rules="NONE">
 <colgroup><col width="95"></col><col width="86"></col><col width="108"></col><col width="121"></col></colgroup> 
 <tbody>
@@ -125,21 +125,3 @@ description: mapping of my personal American English vowel pronunciations
 </tr>
 </tbody>
 </table>
------
-COMMENT:
-AUTHOR: dfsdf
-EMAIL: asdfdfsd@yahoo.com
-IP: 119.31.253.28
-URL: http://www.dfdfsd.com
-date: 11/14/2011 04:13:49 PM
-<p>One good thing in relation to <a href="http://www.misswatches2u.com/maurice-lacroix-c-123.html" rel="nofollow">replica maurice lacroix</a> is usually that you&#39;ve got many solutions readily available as soon as choosing a watch replica of real model. Provided that this type of timepieces usually are low cost, you can even have enough cash to order various <a href="http://www.misswatches2u.com/montblanc-c-22.html" rel="nofollow">replica montblanc watches</a> products. This will additionally raise look, since you would be able to have on unique <a href="http://www.misswatches2u.com/omega-c-15.html" rel="nofollow">omega watches replica</a> intended for different functions or maybe functions. You can even invest in many <a href="http://www.misswatches2u.com/movado-c-142.html" rel="nofollow">replica movado</a> by several different models, making you glimpse all the more well-off in addition to effective with contemporary society.</p>
------
-COMMENT:
-AUTHOR: swiss replica watches
-EMAIL: gbtyxbe@yahoo.com
-IP: 205.209.143.30
-URL: http://www.ok-replicawatches.com/
-date: 12/01/2011 06:43:48 AM
-<p>high  <a href="http://www.ok-replicawatches.com/Wholesale-Discount-swiss-breitling-navitimer_c60.html" title="breitling navitimer replica swiss" rel="nofollow">breitling navitimer replica swiss</a><br/> quality ,low <a href="http://www.ok-replicawatches.com/Wholesale-Discount-omega-deville_c181.html" title="replika omega de ville" rel="nofollow">replika omega de ville</a><br/>  price, don&#39;t miss it  <a href="http://www.ok-replicawatches.com/Wholesale-Discount-swiss-watches-swiss-hublot_c132.html" title="hublot swiss replica" rel="nofollow">hublot swiss replica</a><br/> ...belive you can get it.<a href="http://www.ok-replicawatches.com/Wholesale-Discount-swiss-watches-swiss-rolex_c233.html" title="imitation swiss rolex" rel="nofollow">imitation swiss rolex</a></p>
------
-
