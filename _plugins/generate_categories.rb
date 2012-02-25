@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 module Jekyll
 
   class CategoryIndex < Page
