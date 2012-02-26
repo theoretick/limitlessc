@@ -6,10 +6,15 @@ layout: default
 <br />
 <h2>recent:</h2>
 
-<div class="latest">
-{% assign posts = site.posts %}
-{% assign listing_limit = 6 %}
-{% include post-listing-index.html %}
-</div>
-
+<ul class="posts">
+{% for post in site.posts limit: 3 %}
+  <div class="post_info">
+    <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span>({{ post.date | date:"%d%a%Y" }})</span>
+    </li>
+    </br> <em>{{ post.content }} </em>
+    </div>
+  {% endfor %}
+</ul>
 
