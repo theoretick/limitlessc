@@ -11,9 +11,10 @@ layout: default
   <div class="post_info">
     <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
-            <span>({{ post.date | date:"%d%a%Y" }})</span>
+            <span>({{ post.date | date:"%d%b%Y" }})</span>
     </li>
-    </br> <em>{{ post.content }} </em>
+    <blockquote><em>{{ post.content | truncatewords: 35 }} </em></blockquote>
+    <br />
     </div>
   {% endfor %}
 </ul>
