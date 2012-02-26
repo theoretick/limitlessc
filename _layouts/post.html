@@ -6,7 +6,7 @@ comments: true
 <div class="post" id="main-content">
 	<h2>{{page.title}}</h2>
 	<p class="timestamp">
-		{{page.date | date_to_string}} | {% if page.category %} <a href="{{page.category}}">{{page.category}}</a> {% endif %} | author: theoretick
+		{{page.date | date_to_string}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a> {% endif %} | author: theoretick
 	</p>
 	<div class="content">
 	{{ content }}
