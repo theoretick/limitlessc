@@ -29,3 +29,4 @@ h1,h2,h3 {font-weight:400;}
 .credits {font-size:0.8em; color:#777; margin:0 0 10 10px;}
 .credits a {color:#777;}
 .clear {clear:both;}
+#recent li {list-style:none;}
