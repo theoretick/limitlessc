@@ -2,7 +2,7 @@
 layout: post
 title: Highlights from Pandora Town Hall
 date: 2010-10-22
-category: notes
+category: journal
 tags:
  - notes
  - pandora
