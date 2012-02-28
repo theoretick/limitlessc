@@ -29,8 +29,12 @@ description: Site migration to new host and Jekyll with build information and de
 
 <p>The static content is being generated with Jekyll and pushed to the server via Git.  I had next to no knowledge of version control systems and only a vague understanding of the precise difference between static and dynamic content websites prior.  In other words, I have done very little webdev outside of basic HTML/CSS crafting.  Therefore moving from an overly expensive and incredibly simple WYSIWYG generator and host like squarespace to something barebones was an interesting and important journey.</p>
 
+RSS provided through feedburner and can be found <a href="/feed/index.xml" target="_blank">HERE</a>.
+
+Comments are served up by <a href="http://disqus.com" target="_blank">Disqus</a>, the excellent provider since I am too lazy to code that myself and they do a good job of filtering spam and tracking all those fun analytics for me.
+
 <h3>Todo</h3>
 
-<p>Once I get everything finished I will be migrating over all my posts, adding RSS, figuring out how to throw up a GoogleAnalytics engine, and hopefully getting comments up with Disqus.</p>
+<p>Once I get everything finished I will be migrating over all my posts figuring out how to throw up a GoogleAnalytics engine, and hopefully revamping my layout in a way that I am a bit more satisfied with.</p>
 
 <p>I am sure plenty is broken and since I wrote this all for scratch more or less in vi (like an idiot who thinks its important to jump without a net) let me know what I need to fix and if you are feeling up for it pop open the source and tell me where I need to drop a close bracket or whatever.</p>
