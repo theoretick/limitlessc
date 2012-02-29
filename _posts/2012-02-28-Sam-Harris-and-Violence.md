@@ -88,4 +88,4 @@ To spend years perfecting the art of ground fighting is to risk forgetting that 
 Matt Thornton writes: <em>"I agree we need all three ranges—stand up, clinch and ground—for self-defense; and, in general, we want to avoid going to the ground in a fight. However, the best way to ensure that you will end up on the ground is to never train there in the first place. It’s the non-grapplers who are easiest to take down, and being in a “fight” means it isn’t necessarily up to you where you end up. So, it’s a bit of irony that wanting to stay off the ground in a self-defense situation should dictate a serious commitment to grappling."</em>
 
 [^foot]: "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." ~Bruce Lee
-[^foot]: For more on Matt Thornton, check out my notes from a talk I saw him give. <a href="/notes/2012-02-21-matt-thornton-notes" target="_blank">Available Here.</a>
+[^foot]: For more on Matt Thornton, check out my notes from a talk I saw him give. <a href="/notes/2012/02/21/matt-thornton-notes.html" target="_blank">Available Here.</a>
