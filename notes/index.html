@@ -1,0 +1,11 @@
+---
+layout: default
+title: category::notes
+---
+
+<p><em>This is a listing of my notes on various people and subjects.  I frequently update and re-edit these and will try and keep a header around with revision notes</p>
+
+<div class="latest">
+{% assign posts = site.categories.notes %}
+{% include post-listing-index.html %}
+</div>
