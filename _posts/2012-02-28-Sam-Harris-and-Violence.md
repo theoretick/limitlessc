@@ -11,11 +11,11 @@ tags:
 description: Notes gathered from Sam Harris' personal blog on violence and BJJ
 ---
 
-Recently Sam Harris had two interesting blogposts on self-defense and violence.  While each goes a different way with some recent interests he has had I found them both riddled with some excellent rules, tidbits, and affirmations.
+Recently Sam Harris had two interesting blogposts on self-defense and violence, <a href="http://www.samharris.org/blog/item/the-truth-about-violence" target="_blank">The Truth About Violence</a> and <a href="http://www.samharris.org/blog/item/the-pleasures-of-drowning" target="_blank">The Pleasures of Drowning</a>.  While each goes a different way with some recent interests he has had I found them both riddled with some excellent rules, tidbits, and affirmations:
 
-##The Truth about Violence##
+##<a href="http://www.samharris.org/blog/item/the-truth-about-violence" target="_blank">The Truth about Violence</a>##
 
-It may seem onerous to prepare yourself and your family to respond to violence, but not doing so is also a form of preparation. Failing to prepare is, generally speaking, preparing very well to do the wrong thing.
+It may seem onerous to prepare yourself and your family to respond to violence, but not doing so is also a form of preparation. **Failing to prepare is, generally speaking, preparing very well to do the wrong thing.**
 
 The role of the police is to respond in the aftermath of a crime
 
@@ -47,7 +47,7 @@ Your goal is to get away with minimum trauma (to you), while harming your attack
 
 The moment it is clear that an assailant wants more than your property (which must be assumed in any home invasion), you must escape.
 
-you do not need to learn hundreds of techniques to become proficient in the physical aspects of self-defense. Rather, you should train a small number of skills nearly to the point of reflex.
+you do not need to learn hundreds of techniques to become proficient in the physical aspects of self-defense. Rather, you should train a small number of skills nearly to the point of reflex.[^foot]
 
 ###Recommended Reading###
 
@@ -63,7 +63,7 @@ G. Thompson, The Fence.
 
 G. Thompson, Dead or Alive.
 
-##Pleasures of Drowning##
+##<a href="http://www.samharris.org/blog/item/the-pleasures-of-drowning" target="_blank">Pleasures of Drowning</a>##
 
 Delusions of martial prowess have much in common with religious faith. A crucial difference, however, is that while people of faith can always rationalize apparent contradictions between their beliefs and the data of their senses, an inability to fight is very easy to detect and, once revealed, very difficult to explain away.
 
@@ -71,7 +71,8 @@ Most students of the martial arts have been aware of BJJ for years—since its e
 
 Many people found the resulting spectacle horrifying—a modern version of the Roman games. But to the martial arts community the first UFC events were a science experiment that had been centuries in the making: Finally, there would be an answer to the one question of perennial interest to fighters everywhere: “What is the best method of fighting?” After a few hours, the answer seemed clear—and it wasn’t boxing, wrestling, karate, or kung fu. Whatever a man’s size, strength, skill, and prior training, a relatively diminutive practitioner of BJJ, Royce Gracie, could completely dominate him.
 
-“What is the best method of fighting?”, and all MMA fighters now do their best to embody it:
+
+**“What is the best method of fighting?”**, all MMA fighters now do their best to embody it:
 When you are standing at arm’s length from your opponent, you want to be able to punch like a Western-style boxer and kick like a Thai boxer.
 
 Moving closer, you want to remain a Thai boxer in your ability to strike with your knees and elbows.
@@ -85,3 +86,5 @@ To spend years perfecting the art of ground fighting is to risk forgetting that 
 ###and a nice comment by one of the best BJJ practitioners around###
 
 Matt Thornton writes: I agree we need all three ranges—stand up, clinch and ground—for self-defense; and, in general, we want to avoid going to the ground in a fight. However, the best way to ensure that you will end up on the ground is to never train there in the first place. It’s the non-grapplers who are easiest to take down, and being in a “fight” means it isn’t necessarily up to you where you end up. So, it’s a bit of irony that wanting to stay off the ground in a self-defense situation should dictate a serious commitment to grappling.
+
+[^foot]: "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." ~BruceLee
