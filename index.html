@@ -7,7 +7,7 @@ layout: default
   <div>
     <li>
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <span>({{ post.date | date:"%d%b%Y" }})</span>
+            <span>{{ post.date | date:"%d%b%Y" }}</span>
 	    <span><a href="/{{post.categories}}">category::{{post.categories}}</a></span>
     </li>
     <blockquote><em>{{ post.content | truncatewords: 35 }} </em>
