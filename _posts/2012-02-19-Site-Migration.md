@@ -33,6 +33,8 @@ RSS provided through feedburner and can be found <a href="/feed/index.xml" targe
 
 Comments are served up by <a href="http://disqus.com" target="_blank">Disqus</a>, the excellent provider since I am too lazy to code that myself and they do a good job of filtering spam and tracking all those fun analytics for me.
 
+The lovely commit widget on the landing page for pulling my latest Github commits is provided by Alexander Beletsky.  <a href="https://github.com/alexanderbeletsky/github.commits.widget" target="_blank">It can be found on Github here.</a>
+
 <h3>Todo</h3>
 
 <p>Once I get everything finished I will be migrating over all my posts figuring out how to throw up a GoogleAnalytics engine, and hopefully revamping my layout in a way that I am a bit more satisfied with.</p>
