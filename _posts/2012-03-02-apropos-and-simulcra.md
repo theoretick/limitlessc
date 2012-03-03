@@ -15,11 +15,9 @@ Following <a href="http://news.ycombinator.com/item?id=3658860">a post</a> I not
 
 TVTropes even has something to say on it calling it <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/LeaningOnTheFourthWall" target="_blank">Leaning on the Fourth Wall</a>.  Its prevalence as a media plot device is rather impressive acting as a crutch in difficult situations or even to simply make a show seem intelligently self-aware.
 
-Even in my favorite modern hella-meta show, Community, it has been openly addressed.  When Abed makes a reference to a show and what happens when someone on a show mentions how much it is like tv, etc. etc.  This happens more and more throughout the show with the occasional "We leaned on that pretty hard last week. Yep, I guess I can lay low for an episode"[^foot] or even "yep, this is a bottle episode"[^foot].  All very indicative of creator Dan Harmon's personal obsession over story structure, <a href="http://www.wired.com/magazine/2011/09/mf_harmon/all/1" target="_blank">which Wired covered a ways back</a>.
+Even in my favorite modern hella-meta show, Community, it has been openly addressed.  When Abed makes a reference to a show and what happens when someone on a show mentions how much it is like tv, etc. etc.  This happens more and more throughout the show with the occasional "We leaned on that pretty hard last week. Yep, I guess I can lay low for an episode"[^1] or even "yep, this is a bottle episode"[^2].  All very indicative of creator Dan Harmon's personal obsession over story structure, <a href="http://www.wired.com/magazine/2011/09/mf_harmon/all/1" target="_blank">which Wired covered a ways back</a>.
 
 I've known about this idea for some time and personally have more and more often started to employ this in my own conversations, because it is both such a powerful and fun way to control a topic.  "not to be arrogant but" is a personal favorite.
 
-[^foot]: S01E06
-[^foot]: S02E08
-
-
+[^1]: S01E06
+[^2]: S02E08
