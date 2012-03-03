@@ -15,3 +15,13 @@ layout: default
     </div>
   {% endfor %}
 </ul>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+<script src="github.commits.widget-min.js"></script>
+<script>
+    $(function () {
+        $('#github-commits').githubInfoWidget(
+      { user: 'theoretick', repo: 'Limitlesschannels.com', branch: 'master', last: 5 });
+    });
+</script>  
+
