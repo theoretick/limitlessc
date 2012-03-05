@@ -31,8 +31,7 @@ description: comparison of all currently available Android N-Back apps
 <p><span style="white-space: pre;"> </span>- No statistics</p>
 <p><span style="white-space: pre;"> </span>- No resuming</p>
 <p><span style="white-space: pre;"> </span>- Not super aesthetically pleasing</p>
-<p>&nbsp;</p>
-<p><strong><span style="white-space: pre;"> </span>Rating:<span style="white-space: pre;"> </span>4 / 10</strong></p>
+<p><strong>Rating:<span style="white-space: pre;"> </span>4 / 10</strong></p>
 <p><strong><br /></strong></p>
 
 
@@ -44,7 +43,7 @@ description: comparison of all currently available Android N-Back apps
 <p><span style="white-space: pre;"> </span>- <strong><em>Detailed</em></strong> daily statistics only, not overrall statistics or ability to reference old days individually</p>
 <p><span style="white-space: pre;"></span>- Fewer settings; i.e. No session limit per day</p>
 <p>&nbsp;- Ads. &nbsp;But removable with premium version</p>
-<p><strong><span style="white-space: pre;"> </span>Rating:<span style="white-space: pre;"> </span>8 / 10</strong></p>
+<p><strong>Rating:<span style="white-space: pre;"> </span>8 / 10</strong></p>
 <p>** Interesting feature note: Audio stimulus can be changed from letters to piano notes!</p>
 <p><strong><br /></strong></p>
 
@@ -56,7 +55,6 @@ description: comparison of all currently available Android N-Back apps
 <p> + Easy N- adjustment (cool little side buttons)</p>
 <p> - Virtually no adjustment otherwise (stimulus, sessions, orientation, etc.)</p>
 <p> - No statistics</p>
-<br />
 <p><strong> Rating: 3 / 10</strong></p>
 <br />
 
@@ -69,13 +67,13 @@ description: comparison of all currently available Android N-Back apps
 <p>&nbsp;- Somewhat confusing controls</p>
 <p> - Unpolished interface</p>
 <p> - Can't tell if the statistics are actually working...</p>
-<br >
 <p><strong>Rating: 7 / 10</strong></p>
 <br />
 
 <p><strong><span style="text-decoration: underline;">Waterdev's NBack ($1.50):</span></strong></p>
 <p> For one of the only current paid N-Back apps, I had high hopes for Waterdev and while it is indeed quite polished with more then the minimal options of other ones it still has a limited feature set. Feature-wise it may be a bit lacking but as stated for the aesthetically-inclined, this is the clear winner.</p>
-<p><span class="full-image-float-left ssNonEditable"><img style="width: 150px;" src="/images/nback/Waterdev.png" alt="" /></span> + Beautiful and Stable</p>
+<p><span class="full-image-float-left ssNonEditable"><img style="width: 150px;" src="/images/nback/Waterdev.png" alt="" /></span></p>
+<p> + Beautiful and Stable</p>
 <p> + Ability to set different profiles</p>
 <p> + Statistics (overall only)</p>
 <p> - Doesn't inhibit lockscreen, which may turn on mid-game and void current round.  This can be a real deal-breaker</p>
@@ -91,12 +89,13 @@ description: comparison of all currently available Android N-Back apps
 <p> - Unique style. Audio stimulus uses farm animals rather than letters or numbers</p>
 <p> + Allows for variable duration, which may or may not actually be useful</p>
 <p> - Statistics?</p>
-<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version." &nbsp;No idea what that is and there's no description.</p>
 <p><strong>Rating: 5 / 10</strong></p>
+<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version." &nbsp;No idea what that is and there's no description.</p>
+
 <br />
 
 <p><strong><span style="text-decoration: underline;">The Winner:</span></strong></p>
-<p>Piotr's NBack clearly has the best feature set and options that I really want in an app, yet awkward layout (at least for my 4.3 screen) and while it has most of what I'm looking for, one other seems to bring it all together in the most packaged and balanced way, so without further ado:</p>
+<p>Piotr's NBack clearly has the best feature set and options that I really want in an app, yet awkward layout (at least for my 4.3" screen) and while it has most of what I'm looking for, one other seems to bring it all together in the most packaged and balanced way, so without further ado:</p>
 <p><strong>Nguyen's N-Back!</strong></p>
 <p>While there are a couple features still lacking, Nguyen's still had the greatest balance of features with the right amount of interface polish. While it still lacks some certain features, Nguyen appears to be a pretty great dev who responds to all requests, so I'll be submitting my desired features and we shall see if we can't make the best on so far a bit better. Meanwhile, if you feel like supporting him, there's a <a class="offsite-link-inline" href="https://market.android.com/details?id=phuc.entertainment.dualnbackpremium&amp;feature=search_result" target="_blank">"premium" ad-free version on the market</a>.</p>
 <p>I'm still not entirely satisfied with the apps available right now, so until I get a few more features or stability in each, I'll be sticking with Nguyen's.</p>
