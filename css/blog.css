@@ -30,3 +30,4 @@ h1,h2,h3 {font-weight:400;}
 .credits a {color:#777;}
 .clear {clear:both;}
 #recent li {list-style:none;}
+blockquote {text-decoration:italic; margin: 15px;}
