@@ -17,7 +17,7 @@ description: an overview of different basic tea types
 
 <h3>Camellia Sinensis</h3>
 <h4>Green Tea</h4>
-<p>Green tea is as basic as you can get, widespread usage originated from China but has since spread to being grown all throughout Asia and throughout the world.  Green tea is straight off the plant, <strong>unoxidized </strong>and dried with minimal processing.
+<p>Green tea is as basic as you can get, widespread usage originated from China but has since spread to being grown all throughout Asia and throughout the world.  Green tea is straight off the plant, <strong>unoxidized </strong>and dried with minimal processing.</p>
 <ul>
 <li>Caffeine: 20mg (range :15-30)</li>
 </ul>
@@ -29,16 +29,16 @@ description: an overview of different basic tea types
 </ul>
 
 <h4>Black Tea</h4>
-<p>Black tea is <strong>fully oxidized, giving it a stronger flavor and more caffeine</strong>.  The process grants black tea a longer shelf-life, so it could originally be transported to Europe and survive the trip from Asia with more flavor and plenty of caffeine.  Still made with Camellia Sinensis but occasionally leaves from the Assamese variety.
+<p>Black tea is <strong>fully oxidized, giving it a stronger flavor and more caffeine</strong>.  The process grants black tea a longer shelf-life, so it could originally be transported to Europe and survive the trip from Asia with more flavor and plenty of caffeine.  Still made with Camellia Sinensis but occasionally leaves from the Assamese variety.</p>
 <ul>
 <li>Caffeine: 40mg (range: 40-60)</li>
 </ul>
 
 <h4>Oolong Tea</h4>
-<p>Oolong tea is traditionally a Chinese tea, partially oxidized and therefore halfway between a green and a black.  <strong>Oxidation is between 10 to 70%</strong>.  This is the most popular tea served in Chinese restaurants.
+<p>Oolong tea is traditionally a Chinese tea, partially oxidized and therefore halfway between a green and a black.  <strong>Oxidation is between 10 to 70%</strong>.  This is the most popular tea served in Chinese restaurants.</p>
 
 <h3>Herbal</h3>
-<p>There are way, way too many varieties to list here since this is basically a made-up category but I'll cover just two of the most popular. The thing about herbal tea is that it is not truly tea-based, by which I mean does not contain any actual tea leaves but instead other herbs.
+<p>There are way, way too many varieties to list here since this is basically a made-up category but I'll cover just two of the most popular. The thing about herbal tea is that it is not truly tea-based, by which I mean does not contain any actual tea leaves but instead other herbs.</p>
 
 <h4>Yerba Mate</h4>
 <p>Mate is made from the Ilex Paraguarensis plant.  It is harvested heavily throughout South America and extremely popular throughout Argentina and Brazil.  Usually drunk out of a gourd, some like to add some lemon to it, where it earned the nickname "terere" [TEH-REH-RAY, trilling each "R"].  Mate has been believed to have a chemical called Mateine in it, as an alternative to caffeine but recent research and really shown the two to be more or less synonymous.</p>
