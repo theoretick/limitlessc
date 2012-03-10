@@ -2,7 +2,7 @@
 layout: post
 title: The 25 greatest magazine articles ever written
 date: 2011-10-02
-category: notes
+category: links
 tags:
  - notes
  - reading
