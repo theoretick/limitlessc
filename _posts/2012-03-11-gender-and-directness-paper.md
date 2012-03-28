@@ -39,13 +39,10 @@ The data collected for analysis comprised 21 aDCT role-plays conducted during Fe
 The directness categories were applied to the request forms based upon the opening of the DCT dialogue, were there to be a non-conventionally indirect opening with a follow-up conventionally indirect request several turns later, such as below, it was still classified as a indirect request.  
   
 *NNS-P12: PromptC - Student-Instructor "Group Work" (+SD, +P)*  
-_(line 2) P: ...I [ ] fee:l \[1] kind of \[1] unfai:r to  getting [ ] gra:de for other student not 
+_(line 2) P: ...I [ ] fee:l \[1] kind of \[1] unfai:r to  getting [ ] gra:de for other student not for Bob...  
+so I need some advice from you:? \[breath] and also [ ] I don't wanna get unfair gra:de [ ] be hone:st?*_  
 
-for Bob... so I need some advice from you:? \[breath] and also [ ] I don't wanna 
-
-get unfair gra:de [ ] be hone:st?*_  
-
-...\[dialogue]...  
+...\[dialogue]... 
 
 *(line 12) P: you know [1] just treating un [ ] equally: will be: if you can do tha::t? [ ] 
 

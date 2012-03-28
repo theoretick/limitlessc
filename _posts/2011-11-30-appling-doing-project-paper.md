@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Appling Doing Project - Statistical and Rule-based Reflections in MT - Paper
 date: 2011-11-30
 category: writing
