@@ -29,11 +29,13 @@ description: Site migration to new host and Jekyll with build information and de
 
 <p>The static content is being generated with Jekyll and pushed to the server via Git.  I had next to no knowledge of version control systems and only a vague understanding of the precise difference between static and dynamic content websites prior.  In other words, I have done very little webdev outside of basic HTML/CSS crafting.  Therefore moving from an overly expensive and incredibly simple WYSIWYG generator and host like squarespace to something barebones was an interesting and important journey.</p>
 
-RSS provided through feedburner and can be found <a href="/feed/index.xml" target="_blank">HERE</a>.
+<p>RSS provided through feedburner and can be found <a href="/feed/index.xml" target="_blank">HERE</a>.</p>
 
-Comments are served up by <a href="http://disqus.com" target="_blank">Disqus</a>, the excellent provider since I am too lazy to code that myself and they do a good job of filtering spam and tracking all those fun analytics for me.
+<p>Comments are served up by <a href="http://disqus.com" target="_blank">Disqus</a>, the excellent provider since I am too lazy to code that myself and they do a good job of filtering spam and tracking all those fun analytics for me.</p>
 
-The lovely commit widget on the landing page for pulling my latest Github commits is provided by Alexander Beletsky.  <a href="https://github.com/alexanderbeletsky/github.commits.widget" target="_blank">It can be found on Github here.</a>
+<p>The lovely commit widget on the landing page for pulling my latest Github commits is provided by Alexander Beletsky.  <a href="https://github.com/alexanderbeletsky/github.commits.widget" target="_blank">It can be found on Github here.</a></p>
+
+<p>I track the site via Google Analytics for traffic analysis, etc.  If it yields anything interesting I might put it up here, as well.</p>
 
 <h3>Todo</h3>
 
