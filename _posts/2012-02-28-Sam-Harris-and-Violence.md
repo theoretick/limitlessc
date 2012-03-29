@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sam Harris and Violence
+title: Sam Harris and violence
 date: 2012-02-28
 category: notes
 tags:
