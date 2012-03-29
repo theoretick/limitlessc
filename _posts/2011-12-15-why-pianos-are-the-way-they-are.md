@@ -71,11 +71,11 @@ description: why pianos are the way they are, music theory breakdown
 
 <p><strong>EDIT: Everyone who has gotten this far should make sure to read Sarah's beautifully thorough comment below going into each issue in the clearest way yet.</strong></p>
 
-<hr />
+-----
 COMMENT:
+-----
 AUTHOR: Sarah
 <!--EMAIL: sarah.stricks@gmail.com-->
-<!--IP: 67.171.159.253-->
 date: 12/15/2011 07:19:22 PM
 <p>I'll start by flat out agreeing that the division of the chromatic scale and the distribution of piano keys is absolutely arbitrary. In my music studies, I got the overwhelming impression that there is a a belief that the division into twelfths is a magically, naturally existing phenomenon, which is ill-informed but not surprising to me. Equal temperament wasn&#39;t even &quot;discovered&quot; until sometime early in the 1700s and its main purpose seems to be for mechanistic tone production consistency, specifically for keyed instruments. Also, this distribution and consequent tuning tends to be blindly accepted as <i>correct</i> and <i>modern</i> by contemporary musicians because the 12-note division represents how it has always been. Red flag.</p>
 

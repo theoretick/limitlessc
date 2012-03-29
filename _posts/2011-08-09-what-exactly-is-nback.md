@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /main/2011/8/9/what-exactly-is-n-back.html
 title: What Exactly is N-Back?
 date: 2011-08-09
 category: neuroscience
