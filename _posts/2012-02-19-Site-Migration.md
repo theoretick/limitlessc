@@ -39,6 +39,10 @@ description: Site migration to new host and Jekyll with build information and de
 
 <h3>Todo</h3>
 
-<p>Once I get everything finished I will be migrating over all my posts figuring out how to throw up a GoogleAnalytics engine, and hopefully revamping my layout in a way that I am a bit more satisfied with.</p>
-
 <p>I am sure plenty is broken and since I wrote this all for scratch more or less in vi (like an idiot who thinks its important to jump without a net) let me know what I need to fix and if you are feeling up for it pop open the source and tell me where I need to drop a close bracket or whatever.</p>
+
+<h3>Possible Todo</h3>
+
+<p>Replace category-based system with tag-based system</p>
+
+<p>Organize articles with quality rating (1-5?)</p>
