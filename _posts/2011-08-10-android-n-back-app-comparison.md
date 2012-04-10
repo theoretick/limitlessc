@@ -98,7 +98,7 @@ description: comparison of the eight main and currently available Android N-Back
 <p><strong>Rating: 6 / 10</strong></p>
 <br />
 
-<p><strong><span style="text-decoration: underline;">Single N-Back (free):</a></span></strong></p>
+<p><strong><span style="text-decoration: underline;">Single N-Back (free):</span></strong></p>
 <p> One of the simplest of all apps.  Only for single N-back and limited purely to numeric stimulus.  Quick N-switching and even a few minimum settings.  Simplicity isn't too admirable however when it is really just a lack of features.</p>
 <p><span class="full-image-float-left ssNonEditable"><a href="https://play.google.com/store/apps/details?id=com.ankerl.singlenback" target="_blank"><img style="width:150px;" src="/images/nback/singlenback.png" alt="Single N-Back" /></a></span></p>
 <p> + Simplicity</p>
