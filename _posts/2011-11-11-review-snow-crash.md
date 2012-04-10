@@ -17,18 +17,17 @@ What can I say about one of those books you have known of for ages but just got 
 <a href="http://www.goodreads.com/review/list/5914093-lucas">View all my reviews</a>
 </p>
 
-<hr />
-COMMENT:
+-----
+COMMENTS:
+-----
 AUTHOR: max
 <!--IP: 97.120.87.149-->
 date: 11/11/2011 11:24:48 PM
 <p>What about the absurdist writing style bothers you? And are you saying you think language is not a virus?</p>
 <hr />
-COMMENT:
 date: 11/11/2011 11:49:10 PM
 <p>I'm not sure what bothers me about it exactly but it just seems goofy and annoys me.  Most things that annoy me are pretty irrational so it is probably just a pet peeve of mine.  I would like to think that language is a virus but the more I learn about language and neuroscience the less true it seems.  Language itself isn&#39;t a virus but maybe just an instrument of the mimetic virus.  Just thinking, I&#39;m not really too committed to any of these ideas right now.</p>
 <hr />
-COMMENT:
 AUTHOR: mulderc
 <!--EMAIL: cameron.mulder@gmail.com-->
 <!--IP: 24.21.129.243-->

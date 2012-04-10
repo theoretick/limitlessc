@@ -14,8 +14,9 @@ Orwell's writing is solid and he tells a fascinating story on a piece of history
 <a href="http://www.goodreads.com/review/list/5914093-lucas">View all my reviews</a>
 </p>
 
-<hr />
+-----
 COMMENT:
+-----
 AUTHOR: mulderc
 <!--EMAIL: cameron.mulder@gmail.com-->
 <!--IP: 24.21.125.180-->
