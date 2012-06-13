@@ -2,10 +2,11 @@
 layout: post
 title: On Posting
 date: 2012-02-15 00:00:00
-category: main
+category: writing
 tags:
  - updates
  - journal
+ - site
 description: update on blogging status and life
 ---
 
