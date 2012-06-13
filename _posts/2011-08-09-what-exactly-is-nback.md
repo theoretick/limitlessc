@@ -11,7 +11,7 @@ tags:
 description: Quick explanation of N-Back for reference
 ---
 
-<p><span class="full-image-block ssNonEditable"><img src="http://brainworkshop.sourceforge.net/session.png?__SQUARESPACE_CACHEVERSION=1312940352396" alt="" /><span class="thumbnail-caption" style="width: 340px;">via Brainworkshop</span></span></p>
+<p><img src="http://brainworkshop.sourceforge.net/session.png?__SQUARESPACE_CACHEVERSION=1312940352396" alt="" /><span class="thumbnail-caption" style="width: 340px;"></span><br />via Brainworkshop</p>
 <p>I've talked about N-Back quite a bit here and since it is currently the basis for my two month long cognitive training experiment I figured I should probably explain this a bit. &nbsp;I gave a brief description previously <a href="http://www.limitlesschannels.com/main/2011/8/2/life-update-blog-posts-and-cognitive-enhancement.html" target="_blank">here</a> but it was more of a hand-off to an overly long and detailed post.  I will probably be talking about this quite a bit in the future and having been supremely dissatisfied with any online descriptions I've found in the past, I figure I can stick all the info and links in one place. This is meant as a brief intro to the topic and by no means complete.</p>
 
 <h3>Background:</h3>

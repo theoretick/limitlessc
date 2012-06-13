@@ -13,10 +13,10 @@ tags:
 description: paper on small-scale undergrad research study on gender and directness
 ---
 
-Slides Accompanying Presentation can be found [HERE](/storage/LING414-FinalPresentation-GenderDirectness.pdf).  
+Slides Accompanying Presentation can be found [HERE](/storage/LING414-FinalPresentation-GenderDirectness.pdf).  Apologies for the pie charts, presentation occurred on Pi Day (3/14) and unfortunately I chose humor over clarity of material, although I honestly still can't think of a decent way to present this data.
   
-11 March 2012  
-LING414 - Pragmatics  
+*11 March 2012*
+*LING414 - Pragmatics*
 *Portland State University*  
 
 In examining utterances the field of speech acts has looked at a number of important factors.  Some of these include analyses of categorical distinctions and others at such factors as interpretation of utterances.  One important distinction is directness.  While previous research has been sparse, there is some work suggesting possible gender differences in realizations of directness.  In this paper it is proposed that there are such gender differences, where female speakers favor more indirect request behavior than their male counterparts, specifically non-conventional indirectness.  First will be presented background on speech act theory and directness, then presentation of previous gender research, next analysis of collected data, and finally concluding comments.  
