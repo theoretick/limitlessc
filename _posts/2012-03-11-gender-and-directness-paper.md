@@ -15,7 +15,6 @@ description: paper on small-scale undergrad research study on gender and directn
 
 Slides Accompanying Presentation can be found [HERE](/storage/LING414-FinalPresentation-GenderDirectness.pdf).  
   
-*Lucas Charles*  
 11 March 2012  
 LING414 - Pragmatics  
 *Portland State University*  
