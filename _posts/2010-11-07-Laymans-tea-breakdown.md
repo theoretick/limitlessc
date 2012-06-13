@@ -15,12 +15,15 @@ description: an overview of different basic tea types
 
 <blockquote>Quick brewing note:  Excessively hot water causes release of tannin, i.e. you'll be drinking bitter tea.  Water should not be boiling when added, but just under.  Steeping time should be around 3o seconds to 3 minutes.</blockquote>
 
-<h3>Camellia Sinensis</h3>
+<h2>Camellia Sinensis</h2>
 <h4>Green Tea</h4>
-<p>Green tea is as basic as you can get, widespread usage originated from China but has since spread to being grown all throughout Asia and throughout the world.  Green tea is straight off the plant, <strong>unoxidized </strong>and dried with minimal processing.</p>
+<p>Green tea is as basic as you can get, widespread usage originated from China but has since spread to being grown all throughout Asia and throughout the world.  Green tea is straight off the plant, <strong>unoxidized </strong>and dried with minimal processing. This is the most popular tea served in Japanese restaurants.</p>
 <ul>
 <li>Caffeine: 20mg (range :15-30)</li>
 </ul>
+
+<h4>Yellow Tea</h4>
+<p>Yellow tea is basically green tea with a slower drying process, granting it a bit of a different flavor.</p>
 
 <h4>White Tea</h4>
 <p>White tea is a somewhat younger version of green tea.  White tea is picked before the buds have fully flowered (i.e. have little white hairs still on them, hence the name).  The <strong>least caffeinated</strong> of any natural tea, due to its young age.  Also <strong>unoxidized with minimal processing.</strong></p>
@@ -37,7 +40,7 @@ description: an overview of different basic tea types
 <h4>Oolong Tea</h4>
 <p>Oolong tea is traditionally a Chinese tea, partially oxidized and therefore halfway between a green and a black.  <strong>Oxidation is between 10 to 70%</strong>.  This is the most popular tea served in Chinese restaurants.</p>
 
-<h3>Herbal</h3>
+<h2>Herbal</h2>
 <p>There are way, way too many varieties to list here since this is basically a made-up category but I'll cover just two of the most popular. The thing about herbal tea is that it is not truly tea-based, by which I mean does not contain any actual tea leaves but instead other herbs.</p>
 
 <h4>Yerba Mate</h4>
