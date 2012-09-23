@@ -8,10 +8,9 @@ tags:
  - writing
  - appliedlinguistics
  - linguistics
-description: My final paper topic for Applied Linguistics on statistical and rule-based Machine Translation
+description: My final paper for linguistics seminar on statistical and rule-based Machine Translation
 ---
 
-Lucas Charles  
 30 November 2011  
 LING435 - Applied Linguistics  
 Portland State University  
