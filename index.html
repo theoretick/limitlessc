@@ -10,9 +10,8 @@ layout: default
             <span>{{ post.date | date:"%d%b%Y" }}</span>
 	    <span><a href="/{{post.categories}}">category::{{post.categories}}</a></span>
     </li>
-    <blockquote><em>{{ post.content | truncatewords: 35 }} </em>
-    <a href="{{ post.url }}"> (more)</a></blockquote>
-    </div>
+    <blockquote><em>{{ post.content | truncatewords: 35 }} </em></blockquote>
+  </div>
   {% endfor %}
 </ul>
 
