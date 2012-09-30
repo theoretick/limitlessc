@@ -6,12 +6,15 @@ comments: true
 <div class="post" id="main-content">
 
 	<p class="timestamp">
-		{{page.date | date_to_string}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a> | {% endif %} theoretick
+		{% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %}
 	</p>
 	<div class="content">
 	{{ content }}
 	</div>
-	
+	<hr>
+	<p class="timestamp">
+		{{page.date | date_to_string}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %} | theoretick
+	</p>
 </div>
 
 <div id="disqus_thread"></div>
