@@ -3,6 +3,7 @@ Original design: Basic Reader (v1.0 - Nov 17, 2010) - A free xhtml/css website t
 For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
+@import url("http://fonts.googleapis.com/css?family=Archivo+Narrow");
 *{margin:0; padding:0;}
 body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font-family:92% Archivo Narrow, sans-serif; line-height:1.5em;}
 a {color:#972323; text-decoration:none;}
@@ -34,4 +35,3 @@ h1,h2,h3 {font-weight:400;}
 .clear {clear:both;}
 #recent li {list-style:none;}
 .blockquote {text-decoration:italic; margin: 15px;}
-@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow);

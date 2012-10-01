@@ -39,7 +39,7 @@ Reading people is beyond valuable in every sphere of social life.  Being able to
 
 ###Spy clothes###
 
-Spies have awesome clothes.  These aren't the stylish clothes previously mentioned in "dressing like an adult" but clothes that are reversible.  Clothes that have tons of pockets. Clothes that are made for infiltrating.  [Scottevest](http://www.scottevest.com) is one such brand that will outfit you will more pockets than you could possible use.  I have yet to find a cool and useful reversible jacket outside of any kids section, however.
+Spies have awesome clothes.  These aren't the stylish clothes previously mentioned in "dressing like an adult" but clothes that are by and large things like reversible.  Clothes that have tons of pockets. Clothes that are made for infiltrating.  [Scottevest](http://www.scottevest.com) is one such brand that will outfit you will more pockets than you could possible use.  I have yet to find a cool and useful reversible jacket outside of any kids section, however.
 
 ###Carry tools and gadgets###
 
