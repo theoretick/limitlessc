@@ -5,7 +5,7 @@ For more information, see http://andreasviklund.com/templates/basic-reader/
 
 @import url("http://fonts.googleapis.com/css?family=Archivo+Narrow");
 *{margin:0; padding:0;}
-body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font-family:92% Archivo Narrow, sans-serif; line-height:1.5em;}
+body {background:#fff url(background.jpg) top center no-repeat; color:#303030; font:92%; font-family:Archivo Narrow, sans-serif; line-height:1.5em;}
 a {color:#972323; text-decoration:none;}
 a:hover {text-decoration:underline;}
 p,ul,ol,dl {margin:0 0 20px 20px;}
