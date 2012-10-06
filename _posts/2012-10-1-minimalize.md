@@ -17,7 +17,7 @@ I have recently become more obsessed with minimalism and the absurd clutter invo
 
 A <a href="http://blog.wsj.com/wealth/2008/05/19/the-homeless-billionaire/">recent article in The Wall Street Journal</a> called "the homeless billionare" features one man who chooses hotels over houses and lives out of a carry-on.  One thing he said really stuck with me in the article:
 
-	"First, I don\'t need it. Secondly, maybe in a bizarre kind of way, I don\'t want to be dependent on it or have the responsbility. I don\'t get that much enjoyment out of saying \'I own it\' " ~ Nicolas Berggruen
+<p class="blockquote">"First, I don't need it. Secondly, maybe in a bizarre kind of way, I don't want to be dependent on it or have the responsbility. I don't get that much enjoyment out of saying 'I own it' " ~ Nicolas Berggruen</p>
 
 This so clearly articulated what I've come to see as ownership being a burden. I simply don\'t want, nor need all these goods.
 
