@@ -13,7 +13,7 @@ comments: true
 	</div>
 	<hr>
 	<p class="timestamp">
-		{{page.date | date_to_string}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %} | theoretick
+		{{page.date | date:"%d%b%Y"}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %} | theoretick
 	</p>
 </div>
 
