@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimalize
+title: minimalize
 date: 2012-10-1
 category: writing
 tags:
@@ -30,8 +30,8 @@ Just a few months ago I was living with 5 others in a 3-story house that I was m
  - $30 - My DVD collection (100 items)
  - $15 - My CD collection (150 items)
  - $0  - My LaserDisc collection (no, I'm not kidding, 20ish items)
- - $135- My Book collection (~100 items)
-<strong>Collected reclaimed cash: $280</strong>
+ - $212- My Book collection (~100 items)
+<strong>Collected reclaimed cash: $357</strong>
 
 ###Things I'm still working on:###
  - My final books (emotionally invested ones, textbooks, reference material)

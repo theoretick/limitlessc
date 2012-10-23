@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Become the Spy you have Always Wanted to be
+title: become the spy you have always wanted to be
 date: 2012-04-30
 category: writing
 tags:

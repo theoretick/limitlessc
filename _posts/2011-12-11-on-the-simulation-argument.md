@@ -2,7 +2,7 @@
 layout: post
 title: On the 'Simulation Argument'
 date: 2011-12-11
-category: journal
+category: writing
 tags:
  - notes
  - theory

@@ -14,12 +14,12 @@ tags:
 description: comparison of the eight main and currently available Android N-Back apps
 ---
 
-<p style="text-align: center;"><em style="font-size: 90%;">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="http://bit.ly/r6g9r7" target="_blank">What Exactly is N-Back?</a></em></p>
+<p class="blockquote">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="http://bit.ly/r6g9r7" target="_blank">What Exactly is N-Back?</a></p>
 -----
 
-<p><em>Current as of 9 April 2012: Added reviews of "N-Back Maestro" and "Single N-Back"</em></p>
+<p style="text-align:center; font-size:90%"><em>Current as of 9 April 2012: Added reviews of "N-Back Maestro" and "Single N-Back"</em></p>
 
-<p><strong>Bit of Background</strong>: Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer. &nbsp;Best case scenario I find a universally-compatible program with a desktop and mobile component. &nbsp;While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on. &nbsp;Until I perfect that script anyway, I will stick entirely to my Android phone. &nbsp;Which app is the best? &nbsp;Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
+<p><strong>Bit of Background</strong>: Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer.  Best case scenario I find a universally-compatible program with a desktop and mobile component.  While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on.  Until I perfect that script anyway, I will stick entirely to my Android phone.  Which app is the best?  Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
 <br />
 
 <p>There are currently 8 main candidates in the app market: Quazar's <a href="https://play.google.com/store/apps/details?id=quazar.BrainNBack" target="_blank">Brain N Back</a>, Nguyen's <a href="https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback" target="_blank">Brain N-Back</a>, Polytech's <a href="https://play.google.com/store/apps/details?id=com.Projet4A.DualNBack" target="_blank">DualNBack</a>, and Piotr's <a href="https://play.google.com/store/apps/details?id=cz.wie.p.nback" target="_blank">N-Back</a>.  Given the complete lack of creative naming this review might get absurdly confusing, so I'll try and use the author's name for these.  Later I was still a bit unsatisfied and decided to test a few more. I have since included <a href="https://play.google.com/store/apps/details?id=waterdev.NBack" target="_blank">Waterdev's NBack</a>, <a href="https://play.google.com/store/apps/details?id=appinventor.ai_viana_octavio.IQ_Boost" target="_blank">IQBoost</a>, Urbian's <a href="https://play.google.com/store/apps/details?id=org.urbian.android.games.nback" target="_blank">N-Back Maestro</a>, and Martin Ankeri's <a href="https://play.google.com/store/apps/details?id=com.ankerl.singlenback" target="_blank">Single N-Back</a></p>
@@ -46,7 +46,7 @@ description: comparison of the eight main and currently available Android N-Back
 <p><span style="white-space: pre;"> </span>+ Both daily and overrall statistics</p>
 <p><span style="white-space: pre;"> </span>- <strong><em>Detailed</em></strong> daily statistics only, not overrall statistics or ability to reference old days individually</p>
 <p><span style="white-space: pre;"></span>- Fewer settings; i.e. No session limit per day</p>
-<p>&nbsp;- Ads. &nbsp;But removable with premium version</p>
+<p> - Ads.  But removable with premium version</p>
 <p><strong>Rating:<span style="white-space: pre;"> </span>8 / 10</strong></p>
 <p>** Interesting feature note: Audio stimulus can be changed from letters to piano notes!</p>
 <p><strong><br /></strong></p>
@@ -66,9 +66,9 @@ description: comparison of the eight main and currently available Android N-Back
 <p>This one was interesting, given the less then detailed explanation in the market I assumed it to be fairly minimal like Quazar's but Piotr's actually has some of the best settings of any of the apps. In my brief testing it was stable, however the audio was not very clear and the control scheme was a mess on my 4.3" screen. One review said it was designed for the Nexus One (4" screen, so perhaps that is the issue).</p>
 <div></div>
 <p><strong><span class="full-image-float-left ssNonEditable"><a href="https://play.google.com/store/apps/details?id=cz.wie.p.nback" target="_blank"><img style="width: 150px;" src="/images/nback/Piotr.png" alt="Piotr's NBack" /></a></span></strong></p>
-<p>&nbsp;+ Most extensive feature set I've seen so far; number of sessions, % to advance, starting N-, feedback</p>
-<p>&nbsp;+ Variety of stimulus</p>
-<p>&nbsp;- Somewhat confusing controls</p>
+<p> + Most extensive feature set I've seen so far; number of sessions, % to advance, starting N-, feedback</p>
+<p> + Variety of stimulus</p>
+<p> - Somewhat confusing controls</p>
 <p> - Unpolished interface</p>
 <p> - Can't tell if the statistics are actually working...</p>
 <p><strong>Rating: 7 / 10</strong></p>
@@ -117,7 +117,7 @@ description: comparison of the eight main and currently available Android N-Back
 <p> + Allows for variable duration, which may or may not actually be useful</p>
 <p> - Statistics?</p>
 <p><strong>Rating: 5 / 10</strong></p>
-<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version." &nbsp;No idea what that is and there's no description.</p>
+<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version."  No idea what that is and there's no description.</p>
 
 <br />
 

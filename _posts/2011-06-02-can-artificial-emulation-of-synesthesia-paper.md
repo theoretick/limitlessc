@@ -12,6 +12,10 @@ tags:
  - originalresearch
 description: research proposal for psycholinguistic emulation of synesthesia
 ---
+
+<p class="blockquote">This paper has since been published in the June2012 issue of PSU's academic journal Anthos, <a href="http://pdx.edu/honors/anthos-issues#V412" target="_blank">available here</a></p>
+<hr />
+
 5 June 2011  
 LING433 - Psycholinguistics  
 Portland State University  

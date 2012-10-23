@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gender and Directness - Paper
+title: Gender and Directness - paper
 date: 2012-03-11
 category: writing
 tags:
@@ -13,7 +13,8 @@ tags:
 description: paper on small-scale undergrad research study on gender and directness
 ---
 
-Slides Accompanying Presentation can be found [HERE](/storage/LING414-FinalPresentation-GenderDirectness.pdf).  Apologies for the pie charts, presentation occurred on Pi Day (3/14) and unfortunately I chose humor over clarity of material, although I honestly still can't think of a decent way to present this data. 
+<p class="blockquote">Slides Accompanying Presentation can be found <a href="/storage/LING414-FinalPresentation-GenderDirectness.pdf" target="_blank">HERE</a>.  Apologies for the pie charts, presentation occurred on Pi Day (3/14) and unfortunately I chose humor over clarity of material, although I honestly still can't think of a decent way to present this data.</p>
+<hr />
   
 *11 March 2012*  
 *LING414 - Pragmatics*  
