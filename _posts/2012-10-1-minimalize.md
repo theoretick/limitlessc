@@ -31,6 +31,7 @@ Just a few months ago I was living with 5 others in a 3-story house that I was m
  - $15 - My CD collection (150 items)
  - $0  - My LaserDisc collection (no, I'm not kidding, 20ish items)
  - $212- My Book collection (~100 items)
+<br />
 <strong>Collected reclaimed cash: $357</strong>
 
 ###Things I'm still working on:###
