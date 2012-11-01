@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Nicotine testing
-category: experiments
 description: info on my experiments with nicotine patches
 ---
-
 
 <p class="blockquote">NOTE: Work in Progress - Last updated 31oct2012</p>
 
