@@ -2,10 +2,6 @@
 layout: default
 title: Nicotine testing
 category: experiments
-tags:
- - originalcontent
- - drugs
- - experiments
 description: info on my experiments with nicotine patches
 ---
 

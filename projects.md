@@ -6,6 +6,7 @@ title: projects
 <p><em>A list of my current (ongoing) projects:</em></p>
 
 <ul>
+
 <li><a href="nicotine.html">Nicotine testing</a></li>
 <li>Sleep data method - a comparison between Zeo and SleepAsAndroid</li>
 <li><a href="/writing/2012/10/01/minimalize.html">Minimalize</a></li>
