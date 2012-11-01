@@ -2,7 +2,7 @@
 layout: post
 title: apropos and simulcra
 date: 2012-03-02
-category: notes
+category: writing
 tags:
  - writing
  - notes
