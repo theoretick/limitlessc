@@ -5,7 +5,8 @@ category: experiments
 description: info on my experiments with nicotine patches
 ---
 
-<p class="blockquote">NOTE - Work in Progress - Last updated 31oct2012</p>
+
+<p class="blockquote">NOTE: Work in Progress - Last updated 31oct2012</p>
 
 On rare occasions over the past few years I have smoked cigarettes.  Usually at a bar or another party environment, wheather it is a result of those around me or some weird form of boredom, I have often found it a fascinating habit. My fascination lies in nicotines colorful and fascinating resume including its status with such a high degree of social acceptability, its links to <a href="http://www.neurobrainstorm.com/2012/10/why-tobacco-is-still-legal-side-effect.html" target="_blank">hormone production and DHT</a>, its effects <a href="http://www.medicalnewstoday.com/releases/85508.php" target="_blank">as a pain-killer</a>, and even the seemingly contradictory evidence of its effects as both a stimulant and a depressant (see below) are fascinating. 
 
@@ -53,4 +54,3 @@ I'll make a note however that this is definitely not the cheapest way to accessi
 
 21:39 - Feeling fine, had a beer and haven't noticed any direct conflict.  still maintaining my current energy level and focus throughout the day and see not obvious interactions.
 
-###Day Three:###
