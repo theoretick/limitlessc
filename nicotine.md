@@ -1,6 +1,5 @@
 ---
 layout: default
-category: experiments
 title: Nicotine testing
 tags:
  - originalcontent
