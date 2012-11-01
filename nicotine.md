@@ -9,10 +9,9 @@ tags:
 description: info on my experiments with nicotine patches
 ---
 
-NOTE - SEARCH FOR LINK AND ADD MISSING ONES, I.E. TO SLEEP STUDY
+<p class="blockquote">NOTE - Work in Progress - Last updated 31oct2012</p>
 
-
-On rare occasions over the past few years I have smoked cigarettes.  Usually at a bar or another party environment, be it a result of those around me or some weird form of boredom but I have often found it a fascinating habit. My fascination lies in nicotines colorful and fascinating resume including its status with such a high degree of social acceptability, its links to <a href="http://www.neurobrainstorm.com/2012/10/why-tobacco-is-still-legal-side-effect.html" target="_blank">hormone production and DHT</a>, its effects <a href="http://www.medicalnewstoday.com/releases/85508.php" target="_blank">as a pain-killer</a>, and even the seemingly contradictory evidence of its effects as both a stimulant and a depressant (see below) are fascinating. 
+On rare occasions over the past few years I have smoked cigarettes.  Usually at a bar or another party environment, wheather it is a result of those around me or some weird form of boredom, I have often found it a fascinating habit. My fascination lies in nicotines colorful and fascinating resume including its status with such a high degree of social acceptability, its links to <a href="http://www.neurobrainstorm.com/2012/10/why-tobacco-is-still-legal-side-effect.html" target="_blank">hormone production and DHT</a>, its effects <a href="http://www.medicalnewstoday.com/releases/85508.php" target="_blank">as a pain-killer</a>, and even the seemingly contradictory evidence of its effects as both a stimulant and a depressant (see below) are fascinating. 
 
 Unfortunately, cigarettes are messy and quite problematic.  I was curious about what exactly nicotine can do and the easiest way to control for the bevy of factors tied to cigarettes (social conditions, weather, countless side-effects, inconsistency of dosage) I decided to try out some nicotine patches.
 
