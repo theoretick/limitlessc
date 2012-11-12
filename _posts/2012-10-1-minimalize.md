@@ -49,6 +49,7 @@ I've given it some thought and to be honest haven't seen any real pressing need 
 
 ###Anyway, here are some brief notes on first steps and ways I've minimized my own digital life:###
  - Reduce pictures folder to three things (1) Ideas, for pictures that inspire me to make/do/build something (2) backgrounds (3) photos
+ - Streaming music versus local.  While streaming has massive potential and I use it often I still seem to experience connectivity issues constantly, which is a bit absurd seeing as I live in an urban center in the middle of the city in 2012.  Until I experience a bit more stability I'll aim to keep around 20 gigs of my own music locally and cycle it out from my external drive.
  - Uninstall all unused programs
  - (for macs) <a href="http://theverge.com/2012/9/14/3331466/mountain-lion-without-skeumorphism" target="_blank">Reducing skeuomorphism</a>
  - use vim for all word documents that don't need strict formatting. GoogleDocs for those that do.

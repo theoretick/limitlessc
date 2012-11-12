@@ -12,14 +12,14 @@ description: Notes and highlights from Dominic Streitfeild's interviews with int
 
 <p class="blockquote">Notes from Dominc Streitfeild's interviews with interrogators in researching his book Brainwash: the secret history of mind control. <a href="http://www.dominicstreatfeild.com/2011/03/25/brainwash-mind-control-source-interviews/" target="_blank">For complete list of interviews go here</a>.</p>
 
-##Monsignor Denis Faul - British SAS NCO Trained Interrogator interview##
+##Monsignor Denis Faul - British SAS NCO Trained Interrogator##
 
 _\[In WW2\] The Americans appear to have been more susceptible to the propaganda though, don’t they? Their morale collapsed almost immediately?_ 
 
 That’s a fact. The Americans died out like flies in our camp. And the main reason for that – we were a lot harder in those days than we are now. British troops went into the field with corn dog and hard tack biscuits, if you know what I mean. But the Americans had Tutti Fruttis of all sorts and a lot of sweety goodies in their rations and – well, their rations reflected their home food. Just scaled down. But ours were pretty rough. When it came to the great change from stacks of food to none, the Americans had a lot further distance to drop than we did. And this is what killed thousands of them. We called it ‘no candy disease’. I suffered beriberi nearly to death because I’d not long been in the field and I’d been used to good scoff in Japan and Hong Kong before I got in the field, so I had a bigger drop down in calories than the average squaddie who’d been in Korea for a few months. Those of us like me got beriberi and suffered more from the total change in rations and general well-being. The Americans had a hell of a lot further to fall than I did. That’s why they died.
 
 
-##Wilson Bryan Key - US Army Interrogator interview##
+##Wilson Bryan Key - US Army Interrogator##
 <p class="blockquote">http://www.dominicstreatfeild.com/2010/11/17/interview-with-us-army-interrogator/</p>
 
 
