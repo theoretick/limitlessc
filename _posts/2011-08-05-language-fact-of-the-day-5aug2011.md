@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Language fact of the day 5aug2011
 date: 2011-08-05
 category: language

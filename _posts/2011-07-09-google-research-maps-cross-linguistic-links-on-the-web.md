@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Google Research Maps cross-linguistic links on the Web 
+layout: post
+title: Google Research Maps crosslinguistic links on the Web 
 date: 2011-07-09
 category: language
 tags:
