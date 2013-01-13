@@ -7,7 +7,7 @@ tags:
  - writing
  - books
  - notes
-description: Notes and musings from Samuel Delany's Dhalgren
+description: Notes and musings from Samuel Delany novel Dhalgren
 ---
 
 <p class="blockquote">Notes and musings on Samuel Delany's novel Dhalgren. Sitting somewhere around halfway through the novel, it may be premature to have nearly completed my review of the work, but something compelled me to write. If nothing else it should be a joy to see how true this perspective holds upon completion.</p>
