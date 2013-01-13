@@ -22,7 +22,7 @@ computer speaker set, Logitech surround sound 5.1
 
 14x books
 
-Chromebook, CR-48 w/ box
+Chromebook, CR-48
 
 tablet, Pandigital Android REM
 
