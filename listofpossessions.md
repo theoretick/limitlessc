@@ -1,16 +1,14 @@
-###
+---
 layout: default
 title: List of Possessions
 description: List of all owned possessions
-###
+---
+
+<p class="blockquote">Current as of 14jan2013</p>
 
 ##Non-consumables (term courtesy of 4-plates.com)##
 
-<p class="blockquote">Current as of 17dec2012</p>
-
 <p class="blockquote">i.e. mostly not including toiletries or kitchenware.  Or in the spirit of <a href="http://guynameddave.com/" target="_blank">Dave Bruno's</a> 100 Things Challenge, does not include non-personals (dishes, cleaning supplies, etc), household shared goods (couch, etc), tools, and collections counting as one.</p>
-
-<hr />
 
 Macbook Pro, 13in Retina 2012
 
@@ -28,7 +26,7 @@ tablet, Pandigital Android REM
 
 full-sized mattress
 
-sheet set, brown REM
+sheet set, brown
 
 Samsung Galaxy S2 - T989
 
@@ -46,17 +44,13 @@ desk, IKEA - Vika Amon / Vika Adils / GALANT cable mgt
 
 chair, folding IKEA - Jeff
 
-android figurine REM
-
-push light
-
 TI-83+
 
 projector w/ case, Planar PR3020
 
 Earphones, Shure Sound Isolating earbuds SE115
 
-Kindle 3, Amazon wifi+3g keyboard
+Kindle Paperwhite, Amazon wifi+3g
 
 Nokia cell phone w/ charger, spare
 
@@ -78,8 +72,6 @@ bike light, front and rear set
 
 12x notebooks, composition
 
-poker chipset, navy REM
-
 playing cards
 
 3x juggling balls
@@ -92,13 +84,9 @@ sleeping bag, LaFuma 30degree
 
 Blanket, Hudson Bay wool
 
-Dopp kit REM REPLACE
-
-Iron
+Clothing Iron
 
 Pillbox, 2-week AM/PM
-
-Incense burner, Buddha head REM
 
 
 ###CLOTHING###
@@ -107,11 +95,13 @@ Incense burner, Buddha head REM
 
 2x shorts
 
+Swim Shorts
+
 belt, Thomas Bates hiker
 
 14x t-shirts
 
-7x dress shirts REM?
+6x dress shirts
 
 7x underwear
 
@@ -127,11 +117,11 @@ shirt, sleeveless workout REM
 
 scarf, charcoal
 
-tie, black
+tie, black skinny
 
-suit, 3-piece REM CHECK SHOULDERS
+suit, 3-piece
 
-trenchcoat, brown mid-thigh
+trenchcoat, tan mid-thigh
 
 carcoat, Wool Kenneth Cole Reaction
 
@@ -141,19 +131,17 @@ hoodie, black
 
 jacket, Doki Geki black
 
-hiking boots, Vasquez REM REPLACE
+hiking boots, Vasquez
 
-boots, Red Wing Iron Rangers Amber
+boots, Red Wing Iron Rangers Amber 8D
 
-shoes, Palladium Pampa Oxford
+shoes, Palladium Pampa Oxford Tan 8.5
 
-black thongs
-
-bike pants REM
+bike pants
 
 bike gloves
 
-bike gloves, winter REM
+bike gloves, winter
 
 bike helmet
 
@@ -162,7 +150,7 @@ bike helmet
 
 Leatherman Wave
 
-Folding pocket knife, Kershaw black assisted REM REPLACE
+Folding pocket knife, Kershaw black assisted
 
 3/8 corded power drill
 
@@ -171,8 +159,6 @@ hammer
 toolbox
 
 toolcase, malboro
-
-powerstrip
 
 
 ###STORAGE###
@@ -197,7 +183,6 @@ clothes sack, US Army canvas
 
 suitcase, Kirkland
 
-
 messenger bag, slim
 
 Blackstar messenger bag
@@ -215,15 +200,13 @@ USB cable, Amazon w/ wall adapter
 USB cable, heavy duty
 
 
-*travel towel
+###MISC###
+
+travel towel
 
 Hugo Boss watch
 
-*pebble watch
-
 man-grooming kit
-
-hammock REM
 
 pull-up bar
 
