@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dhalgren Notes
+title: Dhalgren Notes
 date: 2013-01-13
 category: writing
 tags:
