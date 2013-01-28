@@ -1,7 +1,7 @@
 ---
 layout: post
 title: minimize
-date: 2012-10-1
+date: 2012-10-01
 category: writing
 tags:
  - minimalism
@@ -34,7 +34,7 @@ Just a few months ago I was living with 5 others in a 3-story house that I was m
 <br />
 <strong>Total collected reclaimed cash: $412.50</strong>
 
-<a href="/listofpossessions.html">Current list of possessions</a>
+###[\[list of current possessions\]](/listofpossessions.html)###
 
 ###Things I'm still working on:###
  - My final books (ones I'm emotionally invested in, textbooks, reference material)

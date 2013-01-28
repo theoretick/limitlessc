@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes from Interviews with Interrogators
+title: notes from interviews with interrogators
 date: 2012-11-1
 category: notes
 tags:

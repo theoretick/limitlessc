@@ -16,25 +16,25 @@ laptop charging cable, Apple
 
 external hard drive, Lacie 1TB
 
-computer speaker set, Logitech surround sound 5.1
+computer speaker set, Logitech 5.1 surround sound
 
-14x books
+8x books
 
 Chromebook, CR-48
 
 tablet, Pandigital Android REM
 
+Samsung Galaxy S2 - T989
+
+keys and carabiner
+
+wallet, Splaff recycled tire
+
 full-sized mattress
 
 sheet set, brown
 
-Samsung Galaxy S2 - T989
-
 blanket, green cotton
-
-wallet, Splaff recycled tire
-
-keys and carabiner
 
 comforter, brown
 
@@ -52,7 +52,7 @@ Earphones, Shure Sound Isolating earbuds SE115
 
 Kindle Paperwhite, Amazon wifi+3g
 
-Nokia cell phone w/ charger, spare
+Nokia cell flip phone, spare
 
 laptop sleeve, Targus 13in
 
@@ -70,9 +70,9 @@ bicycle, Univega Maxima Sport
 
 bike light, front and rear set
 
-12x notebooks, composition
+13x notebooks, composition
 
-playing cards
+playing/throwing cards
 
 3x juggling balls
 
@@ -91,13 +91,13 @@ Pillbox, 2-week AM/PM
 
 ###CLOTHING###
 
-5x jeans
+4x jeans
 
 2x shorts
 
 Swim Shorts
 
-belt, Thomas Bates hiker
+belt, Thomas Bates hiker black
 
 14x t-shirts
 
@@ -111,15 +111,15 @@ thermals, pair
 
 sweatpants
 
-gym shorts
+shorts, gym
 
-shirt, sleeveless workout REM
+shirt, sleeveless workout
 
 scarf, charcoal
 
 tie, black skinny
 
-suit, 3-piece
+suit, 3-piece tweed
 
 trenchcoat, tan mid-thigh
 
@@ -131,7 +131,7 @@ hoodie, black
 
 jacket, Doki Geki black
 
-hiking boots, Vasquez
+hiking boots, Vasquez 9
 
 boots, Red Wing Iron Rangers Amber 8D
 
@@ -150,7 +150,7 @@ bike helmet
 
 Leatherman Wave
 
-Folding pocket knife, Kershaw black assisted
+Folding pocket knife, Kershaw blur black serrated assisted
 
 3/8 corded power drill
 
@@ -188,6 +188,7 @@ messenger bag, slim
 Blackstar messenger bag
 
 canvas side bag, barraco
+
 
 ###ASSORTED CABLES##
 
