@@ -66,9 +66,9 @@ description: comparison of the eight main and currently available Android N-Back
 <p>This one was interesting, given the less then detailed explanation in the market I assumed it to be fairly minimal like Quazar's but Piotr's actually has some of the best settings of any of the apps. In my brief testing it was stable, however the audio was not very clear and the control scheme was a mess on my 4.3" screen. One review said it was designed for the Nexus One (4" screen, so perhaps that is the issue).</p>
 <div></div>
 <p><strong><span class="full-image-float-left ssNonEditable"><a href="https://play.google.com/store/apps/details?id=cz.wie.p.nback" target="_blank"><img style="width: 150px;" src="/storage/nback-images/Piotr.png" alt="Piotr's NBack" /></a></span></strong></p>
-<p> ;+ Most extensive feature set I've seen so far; number of sessions, % to advance, starting N-, feedback</p>
-<p> ;+ Variety of stimulus</p>
-<p> ;- Somewhat confusing controls</p>
+<p> + Most extensive feature set I've seen so far; number of sessions, % to advance, starting N-, feedback</p>
+<p> + Variety of stimulus</p>
+<p> - Somewhat confusing controls</p>
 <p> - Unpolished interface</p>
 <p> - Can't tell if the statistics are actually working...</p>
 <p><strong>Rating: 7 / 10</strong></p>
