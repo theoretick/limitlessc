@@ -31,25 +31,25 @@ description: comparison of the eight main and currently available Android N-Back
 <p>Quazar's app is about as bare-bones as you can get, it's for doing N-Backs and that's about it.</p>
 <div></div>
 <p><a href="https://play.google.com/store/apps/details?id=quazar.BrainNBack" target="_blank"><img style="width: 150px;" src="/storage/nback-images/quazar.jpg" alt="Quazar's Brain N Back" /></a></p>
-<p><span style="white-space: pre;"> </span>+ Choice of Single, Dual, or Triple N-Back</p>
-<p><span style="white-space: pre;"> </span>- No statistics</p>
-<p><span style="white-space: pre;"> </span>- No resuming</p>
-<p><span style="white-space: pre;"> </span>- Not super aesthetically pleasing</p>
-<p><strong>Rating:<span style="white-space: pre;"> </span>4 / 10</strong></p>
-<p><strong><br /></strong></p>
+<p> + Choice of Single, Dual, or Triple N-Back</p>
+<p> - No statistics</p>
+<p> - No resuming</p>
+<p> - Not super aesthetically pleasing</p>
+<p><strong>Rating: 4 / 10</strong></p>
+<br />
 
 
 <p><strong><span style="text-decoration: underline;">Nguyen's Brain N-Back<strong> (free or donated)</strong></span><span style="text-decoration: underline;"><span style="text-decoration: underline;">:</span></span></strong></p>
 <p>Solid app with all the core features (statistics and variable stimulus; i.e. position, color, and shape) with no major issues in terms of stability.  After a week of use it didn't crash once.</p>
 <p><span style="white-space: pre;"><span class="full-image-float-left ssNonEditable"><a href="https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback" target="_blank"><img style="width: 150px;" src="/storage/nback-images/Nguyen.png" alt="Nguyen's Brain N-Back" /></a></span></span></p>
-<p><span style="white-space: pre;"> </span>+ Stable and Pretty</p>
-<p><span style="white-space: pre;"> </span>+ Both daily and overrall statistics</p>
-<p><span style="white-space: pre;"> </span>- <strong><em>Detailed</em></strong> daily statistics only, not overrall statistics or ability to reference old days individually</p>
-<p><span style="white-space: pre;"></span>- Fewer settings; i.e. No session limit per day</p>
-<p> ;- Ads.  ;But removable with premium version</p>
+<p> + Stable and Pretty</p>
+<p> + Both daily and overrall statistics</p>
+<p> - <strong><em>Detailed</em></strong> daily statistics only, not overrall statistics or ability to reference old days individually</p>
+<p> - Fewer settings; i.e. No session limit per day</p>
+<p> - Ads.  ;But removable with premium version</p>
 <p><strong>Rating:<span style="white-space: pre;"> </span>8 / 10</strong></p>
 <p>** Interesting feature note: Audio stimulus can be changed from letters to piano notes!</p>
-<p><strong><br /></strong></p>
+<br />
 
 <p><strong><span style="text-decoration: underline;">Polytech Marseille's DualNBack (free):</span></strong></p>
 <p> As the name states, this is for purely <em>Dual</em> N-Back.  That being said, there's still N- adjustment and a clean interface for getting it done.  Unfortunately, the recorded audio-letter stimulus is so horrible I can't legitimately tell if it is French or English; I only say French due to the app's name.</p>
@@ -117,8 +117,7 @@ description: comparison of the eight main and currently available Android N-Back
 <p> + Allows for variable duration, which may or may not actually be useful</p>
 <p> - Statistics?</p>
 <p><strong>Rating: 5 / 10</strong></p>
-<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version."  ;No idea what that is and there's no description.</p>
-
+<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version."; I have no idea what that is and there's no description.</p>
 <br />
 
 <p><strong><span style="text-decoration: underline;">The Winner:</span></strong></p>
@@ -138,4 +137,4 @@ COMMENTS:
 -----
 AUTHOR: Roman
 DATE: 10/15/2011 01:29:51 PM
-<p>Thanks for detailed review, saved hours of my life.<br/>I have 4&quot; screen so will try best and second best app.</p>
+<p>Thanks for detailed review, saved hours of my life.<br/>I have 4" screen so will try best and second best app.</p>
