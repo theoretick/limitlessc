@@ -2,7 +2,7 @@
 layout: post
 title: If OCCUPY is to be a revolution, it cannot become a ritual. We must innovate and never imitate. 
 date: 2011-11-11
-category: links
+category: notes
 tags:
  - links
  - occupypdx

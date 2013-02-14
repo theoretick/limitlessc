@@ -2,7 +2,7 @@
 layout: post
 title: H.P. Lovecraft and the Public Spheres of the Imagination
 date: 2012-01-16
-category: main
+category: notes
 tags:
 description:
 ---

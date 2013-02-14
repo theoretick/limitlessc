@@ -2,7 +2,7 @@
 layout: post
 title: "I don't speak, I operate a machine called language. It creaks and groans, but is mine own."
 date: 2011-12-11
-category: quotes
+category: notes
 tags:
  - quotes
  - dune

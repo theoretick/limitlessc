@@ -2,7 +2,7 @@
 layout: post
 title: E-Learning and Classroom Learning - A Comparison
 date: 2011-09-10
-category: links
+category: notes
 tags:
  - learning
  - links

@@ -2,7 +2,7 @@
 layout: post
 title: Zen parable of the day - rejecting miracles
 date: 2011-10-09
-category: quotes
+category: notes
 tags:
  - notes
  - quotes

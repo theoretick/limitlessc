@@ -2,7 +2,7 @@
 layout: post
 title: Site Migration
 date: 2012-02-19
-category: site
+category: notes
 tags:
  - code
  - webdev

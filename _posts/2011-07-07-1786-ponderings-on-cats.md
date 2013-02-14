@@ -2,7 +2,7 @@
 layout: post
 title: 1768 Ponderings on Cats
 date: 2011-07-07
-category: main
+category: notes
 tags:
  - cats
  - encyclopedia

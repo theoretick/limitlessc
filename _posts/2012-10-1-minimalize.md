@@ -2,7 +2,7 @@
 layout: post
 title: minimize
 date: 2012-10-01
-category: writing
+category: experiments
 tags:
  - minimalism
  - lifestyle

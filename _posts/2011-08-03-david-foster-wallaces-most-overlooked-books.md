@@ -2,7 +2,7 @@
 layout: post
 title: David Foster Wallace's Most Overlooked books of last 50 years
 date: 2011-08-03
-category: links
+category: notes
 description:
 ---
 <blockquote>

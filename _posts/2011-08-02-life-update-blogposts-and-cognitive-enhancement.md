@@ -2,7 +2,7 @@
 layout: post
 title: Life Update - Blog posts and Cognitive enhancement
 date: 2011-08-02
-category: journal
+category: writing
 tags:
  - lifeupdate
  - journal

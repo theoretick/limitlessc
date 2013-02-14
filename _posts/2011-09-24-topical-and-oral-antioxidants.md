@@ -2,7 +2,7 @@
 layout: post
 title: Topical and Oral Antioxidants for Sun Protection
 date: 2011-09-24
-category: links
+category: notes
 tags:
  - links
  - drugs

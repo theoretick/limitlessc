@@ -2,9 +2,13 @@
 layout: post
 title: Sinful Depression
 date: 2011-08-05
-category: quotes
+category: writing
 tags:
  - quotes
+ - notes
+ - writing
+ - bible
+ - depression
 description:
 ---
 

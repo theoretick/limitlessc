@@ -2,7 +2,7 @@
 layout: post
 title: Looking into the Abyss - The draw of doomsday
 date: 2011-10-15
-category: links
+category: notes
 tags:
  - apocalypse
  - links
