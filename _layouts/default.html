@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!DOCTYPE html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<!- meta name="author" content="Lucas C" -->
 
 	{% if page.title %}
-	<title>{{page.title}} | limitless channels</title>
+	    <title>{{page.title}} | limitless channels</title>
 	{% else %}
-	<title>limitless channels</title>
+	    <title>limitless channels</title>
 	{% endif %}
 
 	{% if page.description %}
@@ -62,7 +62,8 @@
 
 <h2>{{page.title}}</h2>
 
-{{ content }}
+{% block content %}
+{% endblock %}
 
 </div>
 </body>
