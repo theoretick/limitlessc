@@ -1,4 +1,5 @@
 _site
+.DS_Store
 storage/.DS_Store
 storage/ankidecks/.DS_Store
 
