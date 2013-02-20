@@ -10,6 +10,8 @@ description: List of all owned possessions
 
 <p class="blockquote">i.e. mostly not including toiletries or kitchenware.  Or in the spirit of <a href="http://guynameddave.com/" target="_blank">Dave Bruno's</a> 100 Things Challenge, does not include non-personals (dishes, cleaning supplies, etc), household shared goods (couch, etc), tools, and collections counting as one.</p>
 
+<hr />
+
 Macbook Pro, 13in Retina 2012
 
 laptop charging cable, Apple
