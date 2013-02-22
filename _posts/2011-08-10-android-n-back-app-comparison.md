@@ -3,7 +3,7 @@ layout: post
 permalink: /main/2011/8/10/android-n-back-app-comparison.html
 title: Android N-Back App Comparison
 date: 2011-08-10
-category: neuroscience
+category: reviews
 tags:
  - apps
  - reviews

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<ul id="cleanlist">
+<ul id="landinglist">
 {% for post in site.posts limit: 6 %}
   <div>
     <li>
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ post.date | date:"%d%b%Y" }}</span>
+            <span id="landingsub">{{ post.date | date:"%d%b%Y" }}</span>
 	    <span><a href="/{{post.categories}}">category::{{post.categories}}</a></span>
 	    <br />
     </li>
@@ -16,16 +16,3 @@ layout: default
 </ul>
 
 <hr />
-<h3>latest activity</h3>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-<script src="/js/github.commits.widget-min.js"></script>
-<script>
-    $(function () {
-        $('#github-commits').githubInfoWidget(
-      { user: 'theoretick', repo: 'Limitlesschannels.com', branch: 'master', last: 5 });
-    });
-</script>  
-<em>
-<div id="github-commits"></div>
-</em>
-
