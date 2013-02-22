@@ -1,5 +1,5 @@
 /*
-Original design: Basic Reader (v1.0 - Nov 17, 2010) - A free xhtml/css website template by Andreas Viklund.
+Original design based on Andreas Viklund's Basic Reader v1.0 xhtml/css template 
 For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
@@ -22,8 +22,7 @@ h1,h2,h3 {font-weight:400;}
 #sidebar li a {font-size:1.4em;}
 #sidebar ul ul {line-height:1.2em; margin:8px 0 8px 20px; padding:0;}
 #sidebar ul ul li a {font-weight:400;}
-/*#sidebar h2 {font-size: 1.4em;}*/
-/* ghost links are for site title and "links" section of sidebar to remove link underline for cleaner formatting*/
+/* ghostlinks for site title and "links" section of sidebar to remove link underline for cleaner formatting*/
 .ghostlinks a {color:#972323; text-decoration:none;}
 .ghostlinks a:hover {text-decoration:none;}
 .slogan {color:#777; font-size:1.2em; font-weight:400; margin:0 0 20px 0;}
@@ -34,3 +33,4 @@ h1,h2,h3 {font-weight:400;}
 .clear {clear:both;}
 #cleanlist li {list-style:none;}
 .blockquote {font-style:italic; padding-left: 15px; margin: 15px;}
+.ratings {font-weight:bold; color:#2380a0;}
