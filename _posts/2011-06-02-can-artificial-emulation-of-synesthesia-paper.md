@@ -2,7 +2,7 @@
 layout: default
 title: Can Artificial Emulation of Synesthesia Aid Visual Word Recognition - Paper
 date: 2011-06-02
-category: writing
+category: essays
 tags:
  - psycholinguistics
  - writing

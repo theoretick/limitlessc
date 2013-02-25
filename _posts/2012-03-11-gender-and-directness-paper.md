@@ -2,7 +2,7 @@
 layout: default
 title: Gender and Directness - paper
 date: 2012-03-11
-category: writing
+category: essays
 tags:
  - gender
  - directness

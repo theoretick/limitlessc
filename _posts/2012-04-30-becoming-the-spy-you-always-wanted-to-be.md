@@ -2,7 +2,7 @@
 layout: post
 title: become the spy you have always wanted to be
 date: 2012-04-30
-category: writing
+category: essays
 tags:
  - spy
  - skillsets

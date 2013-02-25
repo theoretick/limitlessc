@@ -2,13 +2,12 @@
 layout: post
 title: On the 'Simulation Argument'
 date: 2011-12-11
-category: writing
+category: essays
 tags:
  - notes
  - theory
  - simulationargument
  - philosophy
-description:
 ---
 
 <div>I have been thinking about the <a href="http://www.simulation-argument.com/">Simulation Argument</a> lately.  Philosopher Nick Bostrom's Simulation Argument more or less works like this, by first agreeing that one of the following is true:</div>

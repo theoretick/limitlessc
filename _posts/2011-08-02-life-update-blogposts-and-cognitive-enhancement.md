@@ -2,7 +2,7 @@
 layout: post
 title: Life Update - Blog posts and Cognitive enhancement
 date: 2011-08-02
-category: writing
+category: essays
 tags:
  - lifeupdate
  - journal
@@ -10,7 +10,6 @@ tags:
  - research
  - testing
  - personal
-description:
 ---
 
 <p>So I've decided to start getting more serious and frequent on this blog. &nbsp;I'll be trying a daily blogging experiment today that I'll be extending for the next two months, or as far as I can actually keep this up. &nbsp;We'll see.</p>

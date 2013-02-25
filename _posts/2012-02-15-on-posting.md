@@ -1,12 +1,13 @@
 ---
 layout: post
 title: On Posting
-date: 2012-02-15 00:00:00
-category: writing
+date: 2012-02-15
+category: essays
 tags:
  - updates
  - journal
  - site
+ - essays
 description: update on blogging status and life
 ---
 

@@ -1,0 +1,11 @@
+---
+layout: default
+title: category::essays
+---
+
+<p><em>This is a listing of my academic and other longform writing. Most are in what had been their final state.</em></p>
+
+<div class="latest">
+{% assign posts = site.categories.essays %}
+{% include post-listing-index.html %}
+</div>
