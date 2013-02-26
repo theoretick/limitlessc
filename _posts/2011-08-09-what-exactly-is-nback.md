@@ -28,7 +28,7 @@ description: Quick explanation of N-Back for reference
 <p><span style="font-size: 120%;"><strong>A D K F <span style="text-decoration: underline;">K</span> E F J <span style="text-decoration: underline;">F</span> T Y D <span style="text-decoration: underline;">Y</span> <span style="text-decoration: underline;">D</span> W E Q&nbsp;</strong></span></p>
 
 <p>So, go out and try some.  One of the more interesting elements of N-Back is the almost perfectly linear improvement from daily use.  While there is some plateauing at some of the more difficult numbers (namely 4 and 5-back) improvement appears to be nearly linear; i.e. more NBack == better working memory.</p>
-<p><span><img src="jaeggi-figure5.png"/></span><span class="thumbnail-caption" style="width: 400px;">via Jaeggi</span></p>
+<p><span><img src="/storage/nback-images/jaeggi-figure5.png"/></span><span class="thumbnail-caption" style="width: 400px;">via Jaeggi</span></p>
 
 <p>Back to that longer and more detailed article I mentioned earlier, <a class="offsite-link-inline" href="http://www.gwern.net/DNB%20FAQ" target="_blank">Gwern's N-Back FAQ</a> has just about everything else you would be interested in regarding the task. &nbsp;How many a day? What are the limits? Single or Dual NBack? etc.</p>
 
