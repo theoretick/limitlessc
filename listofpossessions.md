@@ -139,7 +139,7 @@ description: List of all owned possessions
 </table>
 
 
-
+<br />
 ##Notes##
 
 I miss my Vibram Five Fingers for their fantastic versatility and comfort but after significant wear-age they can really smell pretty terribly and without consistent washing can be a problem.  After my first batch wore through completely I regretfully gave them up.

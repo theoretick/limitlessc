@@ -21,27 +21,29 @@ description: Site migration to new host and Jekyll with build information and de
 
 <p>This site was made possible by many great people who live public online, letting me check out code and their excellent blogposts describing the process. Some of those include <a href="http://recursive-design.com/blog/2010/10/12/static-blogging-the-jekyll-way/" target="_blank">this solid blogpost</a> on Recursive Design and <a href="http://gwern.net" target="_blank">gwern</a>. Last, a little bit of last minute post-receive hooks fixed by <a href="http://twitter.com/reidab" target="_blank">@reidab</a>.</p>
 
-<p>The basic site is now running hosted at the awesome (and cheap) <a href="http://nearlyfreespeech.net">NearlyFreeSpeech.net</a>.  It's early but NFSN seems great so far.  It is a pay-as-you-go provider, which makes it a very affordable venture and transition from the ~$20 a month I was paying at Squarespace to... well, I'll update as soon as I know.</p>
-
-<p>The source for my site is hosted over on <a href="http://github.com" target="_blank">Github</a>.  I edit the source files locally, push them to my server and to Github with git, and then on the serverside Jekyll builds the static content and voila.</p>
-
 <p>Rather than start from complete scratch I looked for an ultraminimal html/css pair to build off and discovered the beautiful and clean templates of <a href="http://andreasviklund.com">Andreas Viklun.</a></p>
 
-<p>The static content is being generated with Jekyll and pushed to host via Git.</p>
+<br />
 
-<p> - <a href="/feed/index.xml" target="_blank">My RSS feed</a> is provded through feedburner.</p>
+<p>I edit the source files locally, push them with git to my server and to <a href="http://github.com" target="_blank">Github</a>, and then on the serverside <a href="http://jekyllrb.com" target="_blank">Jekyll</a> builds the static content and voila.</p>
+
+<p> - Hosting is at the awesome/cheap <a href="http://nearlyfreespeech.net">NearlyFreeSpeech.net</a>.  It's early but NFSN seems great so far.  It is a pay-as-you-go provider, which makes it a very affordable venture and transition from the ~$20 a month I was paying at Squarespace to... well, I'll update as soon as I know.</p>
+
+<p> - The source for the site is on <a href="github.com/theoretick/Limitlesschannels.com" target="_blank">this Github page</a>.</p>
+
+<p> - <a href="/feed/index.xml" target="_blank">My RSS feed</a> is provided through feedburner.</p>
 
 <p> - <a href="http://disqus.com" target="_blank">Disqus</a> servers up the comment system and continues to be an excellent provider since I am too lazy to code that myself and they do a good job of filtering spam and tracking all the fun analytics for me.</p>
 
-<p> - <a href="https://github.com/alexanderbeletsky/github.commits.widget" target="_blank">Alexander Beletsky's Github Commit widget</a> sites on the landing page, pulling my latest commits for the side</p>
-
 <p> - <a href="http://google.com/analytics">Google Analytics</a> provides site tracking for traffic analysis, etc.  If it yields anything interesting I might put it up here, as well.</p>
 
-<p>I am sure plenty is broken and since I wrote this all for scratch more or less in vi (like an idiot who thinks its important to jump without a net) let me know what I need to fix and if you are feeling up for it pop open the source and tell me where I need to drop a close bracket or whatever.</p>
+<br />
+
+<p>I am sure plenty is broken and since I wrote this all for scratch more or less in vim (like an idiot who thinks its important to jump without a net) let me know what I need to fix and if you are feeling up for it pop open the source and tell me where I need to drop a close bracket or whatever.</p>
 
 <h3>Todo</h3>
 
-<p> - Migrate codebase to Hyde since ruby is weird and I want something Python-y.</p>
+<p> - Migrate codebase to Hyde since jekyll and ruby are weird and I want something Python-y.</p>
 
 <h3>Possible Todo</h3>
 
