@@ -97,6 +97,8 @@ description: List of all owned possessions
 	</tbody>
 </table>
 ###STORAGE###
+
+<table>
 	<tbody>
 		<tr><td>wire storage rack</td></tr>
 		<tr><td>bookshelf, small</td></tr>
