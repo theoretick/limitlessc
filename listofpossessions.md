@@ -4,7 +4,7 @@ title: List of Possessions
 description: List of all owned possessions
 ---
 
-<p class="blockquote">Last updated 15mar2013</p>
+<p class="blockquote">Last updated 15mar2013<br />Current count: 91</p>
 
 ###Non-consumables (term courtesy of 4-plates.com)###
 
