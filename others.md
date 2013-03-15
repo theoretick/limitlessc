@@ -10,9 +10,6 @@ title: others
 <li><a href="http://technoccult.net/">technoccult</a>
 <br />Weird Science, technology, and occult</li>
 
-<li><a href="http://lesswrong.com/">less wrong</a>
-<br />Community rationality blog</li>
-
 <li><a href="http://mindhacks.com/">mind hacks</a>
 <br />Neuroscience, psychology, and zee mind</li>
 
