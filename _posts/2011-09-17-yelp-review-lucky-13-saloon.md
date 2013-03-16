@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yelp Review - Lucky 13 Saloon
+title: Review - Lucky 13 Saloon
 date: 2011-09-17
 category: reviews
 tags:
@@ -8,7 +8,7 @@ tags:
  - yelp
  - writing
  - bars
-description:
+description: My yelp review of Lucky 13 Saloon in Brooklyn, NY
 ---
 
 <p>It was such a kickass experience I've since posted this to Yelp but straight out of my journal on my recent voyage to NYC. &nbsp;Sorry if it's all "reviewy" in style but that's kind of the point, catering to a crowd:</p>
