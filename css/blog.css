@@ -16,13 +16,13 @@ h3 {font-size:1.2em; margin:10px 0 8px 20px;}
 h1,h2,h3 {font-weight:400;}
 #wrap {color:#303030; margin:40px auto; padding:0; width:920px;}
 #content {text-align:left; width:700px; font-family: Archivo Narrow, sans-serif;}
+#subtitle {line-height:1.2em; color:#777; font-size:1.2em; font-weight:400; margin:0 0 7px;}
 .sidebar {float:right; line-height:1.4em; width:200px; margin-left:10px}
-.sidebar ul {font-size:0.9em; list-style:none; margin:0; padding:0 0 15px 0;}
+.sidebar ul {font-size:0.9em; list-style:none; margin:0; padding:7px 0 5px;}
 .sidebar li {list-style:none; margin:0 0 5px;}
 .sidebar li a {font-size:1.4em;}
-.sidebar ul ul {line-height:1.2em; margin:8px 0 8px 20px; padding:0;}
-#subtitle {line-height:1.2em; color:#777; font-size:1.2em; font-weight:400; margin:0 0 20px;}
-/* ghostlinks for site title and "links" section of sidebar to remove link underline for cleaner formatting*/
+.sidebar ul ul {line-height:1.2em; margin:0 0 5px 20px; }
+/* ghostlinks for title & links section of sidebar removes underline for cleaner formatting*/
 .ghostlinks a {text-decoration:none;}
 .timestamp {font-size:1.2em; margin:-5px 0 15px 0;}
 .timestamp a {font-weight:normal;}
