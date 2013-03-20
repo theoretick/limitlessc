@@ -28,7 +28,7 @@ h1,h2,h3 {font-weight:400;}
 .timestamp a {font-weight:normal;}
 #landinglist li {list-style:none;}
 #landingsub {padding-left:24px;}
-.blockquote {font-style:italic; padding-left: 15px; margin: 15px;}
+.blockquote {font-style:italic; padding-left: 15px; margin: 20px;}
 .ratings {font-weight:bold; color:#2380a0;}
 .linktable {
         width: 60%;
