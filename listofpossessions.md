@@ -4,7 +4,7 @@ title: List of Possessions
 description: List of all owned possessions
 ---
 
-<p class="blockquote">Last updated 15mar2013<br />Current count: 91</p>
+<p class="blockquote">Last updated 17apr2013<br />Current count: 89</p>
 
 ###Non-consumables (term courtesy of 4-plates.com)###
 
@@ -18,8 +18,8 @@ description: List of all owned possessions
 		<tr><td>laptop charging cable, Apple</td></tr>
 		<tr><td>external hard drive, Lacie 1TB</td></tr>
 		<tr><td>computer speaker set, Logitech 5.1 surround sound</td></tr>
-		<tr><td>9x books</td></tr>
-		<tr><td>14x notebooks, composition</td></tr>
+		<tr><td>3x books</td></tr>
+		<tr><td>15x notebooks, composition</td></tr>
 		<tr><td>Chromebook, CR-48</td></tr>
 		<tr><td>tablet, Pandigital Android REM</td></tr>
 		<tr><td>cellphone, Samsung Galaxy S2 T989</td></tr>
@@ -32,6 +32,7 @@ description: List of all owned possessions
 		<tr><td>desk, IKEA Vika Amon / Vika Adils / GALANT cable mgt</td></tr>
 		<tr><td>chair, folding - Target</td></tr>
 		<tr><td>Skateboard</td></tr>
+		<tr><td>watch, Pebble black</td></tr>
 		<tr><td>TI-83+</td></tr>
 		<tr><td>projector w/ case, Planar PR3020</td></tr>
 		<tr><td>headphones, Shure Sound-Isolating earbuds SE115</td></tr>
@@ -45,7 +46,7 @@ description: List of all owned possessions
 		<tr><td>50x records</td></tr>
 		<tr><td>bicycle, Univega Maxima Sport</td></tr>
 		<tr><td>bike lights, front and rear set</td></tr>
-		<tr><td>playing/throwing cards</td></tr>
+		<tr><td>2x playing/throwing cards</td></tr>
 		<tr><td>3x juggling balls</td></tr>
 		<tr><td>scale, portable milligram REM</td></tr>
 		<tr><td>poster, Amazonas film festival 2007</td></tr>
@@ -65,11 +66,10 @@ description: List of all owned possessions
 		<tr><td>belt, Thomas Bates hiker black</td></tr>
 		<tr><td>12x t-shirts</td></tr>
 		<tr><td>5x dress shirts</td></tr>
-		<tr><td>7x underwear (mostly Ex Oficio)</td></tr>
+		<tr><td>7x underwear (majority Ex Oficio)</td></tr>
 		<tr><td>8x socks, pair (mostly Smartwool)</td></tr>
-		<tr><td>thermals, pair</td></tr>
+		<tr><td>thermals, pair generic</td></tr>
 		<tr><td>sweatpants</td></tr>
-		<tr><td>swim shorts</td></tr>
 		<tr><td>shorts, gym</td></tr>
 		<tr><td>shirt, sleeveless workout</td></tr>
 		<tr><td>shell, Mountain Hardware Green</td></tr>
@@ -77,7 +77,6 @@ description: List of all owned possessions
 		<tr><td>suit, 3-piece tweed</td></tr>
 		<tr><td>trenchcoat, tan mid-thigh</td></tr>
 		<tr><td>carcoat, wool Kenneth Cole Reaction</td></tr>
-		<tr><td>shell, Mountain Hardware</td></tr>
 		<tr><td>hoodie, black</td></tr>
 		<tr><td>jacket, Doki Geki black</td></tr>
 		<tr><td>boots, Red Wing Iron Rangers Amber 8D</td></tr>
