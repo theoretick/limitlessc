@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Update - Blog posts and Cognitive enhancement
+title: life update - blog posts and cognitive enhancement
 date: 2011-08-02
 category: essays
 tags:

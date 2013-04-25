@@ -5,14 +5,14 @@ comments: true
 
 <div class="post" id="main-content">
 
-	<p class="timestamp">
+	<h3>
 		{% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %}
-	</p>
+	</h3>
 	<div class="content">
 	{{ content }}
 	</div>
 	<hr>
-	<p class="timestamp">
+	<p>
 		{{page.date | date:"%d%b%Y"}} | {% if page.category %} <a href="/{{page.category}}">{{page.category}}</a>{% endif %} | theoretick
 	</p>
 </div>

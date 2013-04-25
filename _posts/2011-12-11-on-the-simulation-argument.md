@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the 'Simulation Argument'
+title: on the 'Simulation Argument'
 date: 2011-12-11
 category: essays
 tags:

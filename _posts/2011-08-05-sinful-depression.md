@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sinful Depression
+title: sinful depression
 date: 2011-08-05
 category: essays
 tags:

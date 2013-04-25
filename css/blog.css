@@ -19,7 +19,6 @@ p,ul,ol,dl {margin:0 0 20px 20px;}
 h1 {color:#972323;
 	font-size:2em;
 	line-height:1.1em;}
-h1 a {color:#972323;}
 h2 {
 	font-size:1.8em;
 	color:#2380a0;
@@ -50,23 +49,20 @@ h1,h2,h3 {font-weight:400;}
 .sidebar ul {
 	font-size:0.9em;
 	list-style:none;
-	margin:0;
-	padding:7px 0 5px;}
+	margin:0;}
 .sidebar li {
 	list-style:none;
-	margin:0 0 5px;}
+	margin:5 0;}
 .sidebar li a {font-size:1.4em;}
+/* for 'me' and 'others' page sublist */
 .sidebar ul ul {
 	line-height:1.2em;
-	margin:0 0 5px 20px;}
+	margin-left:20;}
 /* ghostlinks for title & links section of sidebar removes underline for cleaner formatting*/
 .ghostlinks a {text-decoration:none;}
-.timestamp {
-	font-size:1.2em;
-	margin:-5px 0 15px 0;}
-.timestamp a {font-weight:normal;}
+#license {margin-top:7px;}
 #landinglist li {list-style:none;}
-#landingsub {padding-left:24px;}
+#landingsub {padding-left:25px;}
 .blockquote {
 	font-style:italic;
 	padding-left: 15px;
@@ -75,7 +71,8 @@ h1,h2,h3 {font-weight:400;}
 	font-weight:bold;
 	color:#2380a0;}
 .linktable {
+    text-align: left;
     width: 60%;
-    border:0;
-    padding-left: 15px;}
-ul#references {list-style:none;}
+    padding-left:15px;}
+#references {padding-left:30px;}
+

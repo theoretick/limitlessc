@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Posting
+title: on posting
 date: 2012-02-15
 category: essays
 tags:
