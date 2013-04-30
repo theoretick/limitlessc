@@ -4,75 +4,75 @@ For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
 @import url("http://fonts.googleapis.com/css?family=Archivo+Narrow");
-* {
-	margin:0;
-	padding:0;}
-body {color:#303030;
-	font:92%;
-	font-family:Archivo Narrow, sans-serif;
-	line-height:1.5em;}
+
+body {
+	color: #303030;
+	font-family: Archivo Narrow, sans-serif;
+	line-height: 150%;
+	font-size: 100%}
 a {
 	color:#972323;
-	text-decoration:none;}
-a:hover {text-decoration:underline;}
-p,ul,ol,dl {margin:0 0 20px 20px;}
-h1 {color:#972323;
-	font-size:2em;
-	line-height:1.1em;}
+	text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+p,
+ul,
+ol,
+dl {margin: 0px 0px 20px;}
+
+h1 {
+	color: #972323;
+	font-size: 200%;
+	line-height: 110%;}
 h2 {
-	font-size:1.8em;
-	color:#2380a0;
-	margin-bottom:15px;}
+	font-size: 180%;
+	color: #2380a0;
+	margin-bottom: 15px;}
 h3 {
-	font-size:1.2em;
-	margin:10px 0 8px 20px;}
-h1,h2,h3 {font-weight:400;}
+	font-size: 120%;
+	margin: 10px 0px 8px 20px;}
+h1,h2,h3 {font-weight: 400;}
 #wrap {
-	color:#303030;
-	margin:40px auto;
-	padding:0;
-	width:920px;}
+	color: #303030;}
 #content {
 	text-align:left;
-	width:700px;
-	font-family:Archivo Narrow, sans-serif;}
+	font-family: Archivo Narrow, sans-serif;}
 #subtitle {
-	line-height:1.2em;
-	font-size:1.2em;
-	font-weight:400;
-	margin:0 0 7px;}
+	margin: 0px;
+	line-height: 150%}
+
 .sidebar {
-	float:right;
-	line-height:1.4em;
-	width:200px;
-	margin-left:10px}
+	padding-left: 10px;}
+.sidebar h1 { margin-top: 10px;}
 .sidebar ul {
-	font-size:0.9em;
-	list-style:none;
-	margin:0;}
+	list-style: none;
+	margin-left: 20px;}
 .sidebar li {
-	list-style:none;
-	margin:5 0;}
-.sidebar li a {font-size:1.4em;}
-/* for 'me' and 'others' page sublist */
-.sidebar ul ul {
-	line-height:1.2em;
-	margin-left:20;}
-/* ghostlinks for title & links section of sidebar removes underline for cleaner formatting*/
-.ghostlinks a {text-decoration:none;}
-#license {margin-top:7px;}
-#landinglist li {list-style:none;}
-#landingsub {padding-left:25px;}
+	font-size: 120%;
+	line-height: 140%;}
+
+#license {margin-top: 7px;}
+
+#landinglist li {list-style: none;}
+
+#landingsub {padding-left: 25px;}
+
+.ghostlinks a:hover {text-decoration: none;}
+
 .blockquote {
-	font-style:italic;
+	font-style: italic;
 	padding-left: 15px;
 	margin: 20px;}
+
 .ratings {
-	font-weight:bold;
-	color:#2380a0;}
+	font-weight: bold;
+	color: #2380a0;}
+
+/*link table for formatting me page "where i am" listings */
 .linktable {
     text-align: left;
     width: 60%;
-    padding-left:15px;}
-#references {padding-left:30px;}
+    padding-left: 15px;}
+
+#references {padding-left: 30px;}
 

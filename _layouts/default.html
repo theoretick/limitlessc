@@ -6,6 +6,7 @@
 
 	<!--CSS stuff-->
 	<link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 	<link rel="stylesheet" type="text/css" href="/css/blog.css" media="screen,projection" />
 
 
@@ -41,29 +42,33 @@
 </head>
 
 <body>
-<div id="wrap">
-	<div class="sidebar">
-		<h1 class="ghostlinks"><a href="http://limitlesschannels.com" title="Limitless Channels">limitless channels</a></h1>
-		<p id="subtitle">language notes, tech, dataflow, and the endless infodump</p>
-		
-		<hr />
-		<ul>
-			<li><a href="/projects.html">projects</a></li>
-			<li><a href="/popular.html">popular</a></li>
-			<li><a href="/archive.html">archive</a></li>
-			<li class="ghostlinks"><a href="#">links</a></li>
-				<ul>
-					<li><a href="/me.html">me</a></li>
-					<li><a href="/others.html">others</a></li>
-				</ul>
-			<a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img id="license" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" alt="Creative Commons License" /></a>
-		</ul>	
+<div class="row-fluid">
+	<div class="span12">
+
+		<div class="span8 offset1">
+			<h2>{{page.title}}</h2>
+
+			{{ content }}
+		</div>
+
+		<div class="span2 sidebar">
+			<h1 class="ghostlinks"><a href="http://limitlesschannels.com" title="Limitless Channels">limitless <br />channels</a></h1>
+			<h3 id="subtitle">language notes, tech, dataflow, and the endless infodump</h3>
+			
+			<hr />
+			<ul>
+				<li><a href="/projects.html">projects</a></li>
+				<li><a href="/popular.html">popular</a></li>
+				<li><a href="/archive.html">archive</a></li>
+				<li class="ghostlinks"><a href="#">links</a></li>
+					<ul>
+						<li><a href="/me.html">me</a></li>
+						<li><a href="/others.html">others</a></li>
+					</ul>
+				<a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank"><img id="license" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" alt="Creative Commons License" /></a>
+			</ul>	
+		</div>
 	</div>
-
-<h2>{{page.title}}</h2>
-
-{{ content }}
-
 </div>
 </body>
 </html>
