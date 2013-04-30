@@ -37,7 +37,7 @@ description: List of all owned possessions
 		<tr><td>projector w/ case, Planar PR3020</td></tr>
 		<tr><td>headphones, Shure Sound-Isolating earbuds SE115</td></tr>
 		<tr><td>Kindle Paperwhite, Amazon Wifi+3G</td></tr>
-		<tr><td>cell phone, spare flip - Nokia</td></tr>
+		<tr><td>cellphone, spare flip - Nokia</td></tr>
 		<tr><td>laptop sleeve, Targus 13in</td></tr>
 		<tr><td>water bottle, klean canteen insulated</td></tr>
 		<tr><td>eye glasses, spare</td></tr>
@@ -61,7 +61,7 @@ description: List of all owned possessions
 
 <table>
 	<tbody>
-		<tr><td>4x jeans</td></tr>
+		<tr><td>3x jeans</td></tr>
 		<tr><td>2x shorts</td></tr>
 		<tr><td>belt, Thomas Bates hiker black</td></tr>
 		<tr><td>12x t-shirts</td></tr>
@@ -77,7 +77,7 @@ description: List of all owned possessions
 		<tr><td>suit, 3-piece tweed</td></tr>
 		<tr><td>trenchcoat, tan mid-thigh</td></tr>
 		<tr><td>carcoat, wool Kenneth Cole Reaction</td></tr>
-		<tr><td>hoodie, black</td></tr>
+		<tr><td>hoodie, Ibex Merino Wool Indie Heather</td></tr>
 		<tr><td>jacket, Doki Geki black</td></tr>
 		<tr><td>boots, Red Wing Iron Rangers Amber 8D</td></tr>
 		<tr><td>shoes, Palladium Pampa Oxford Tan 8.5</td></tr>
@@ -121,6 +121,7 @@ description: List of all owned possessions
 <table>
 	<tbody>
 		<tr><td>VGA-Mini DisplayPort adapter, Apple</td></tr>
+		<tr><td>USB 3.0 to Ethernet adapter, Anker</td></td>
 		<tr><td>VGA cable, 25ft heavy-duty</td></tr>
 		<tr><td>USB cable, Amazon w/ wall adapter</td></tr>
 		<tr><td>USB cable, heavy duty</td></tr>
