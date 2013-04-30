@@ -4,6 +4,12 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<!- meta name="author" content="Lucas C" -->
 
+	<!--CSS stuff-->
+	<link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="/css/blog.css" media="screen,projection" />
+
+
+	<!--Jekyll template markup-->
 	{% if page.title %}
 	    <title>{{page.title}} | limitless channels</title>
 	{% else %}
@@ -20,29 +26,18 @@
 	<meta name="keywords" content="{{ page.keywords }}" />
 	{% endif %}
 
-	<link rel="stylesheet" type="text/css" href="/css/blog.css" title="Basic Reader CSS template" media="screen,projection" />
+	<!-- Google analytics script-->
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-29308675-1']);
+		  _gaq.push(['_trackPageview']);
 
-<!- Google analytics script->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29308675-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<!- Color inversion script->
-<script type="text/javascript">
-$(document).ready(
-
-</script>
-
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+	</script>
 </head>
 
 <body>
