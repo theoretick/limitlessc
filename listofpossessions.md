@@ -121,7 +121,7 @@ description: List of all owned possessions
 <table>
 	<tbody>
 		<tr><td>VGA-Mini DisplayPort adapter, Apple</td></tr>
-		<tr><td>USB 3.0 to Ethernet adapter, Anker</td></td>
+		<tr><td>USB 3.0 to Ethernet adapter, Anker</td></tr>
 		<tr><td>VGA cable, 25ft heavy-duty</td></tr>
 		<tr><td>USB cable, Amazon w/ wall adapter</td></tr>
 		<tr><td>USB cable, heavy duty</td></tr>
