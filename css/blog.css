@@ -31,9 +31,10 @@ h2 {
 h3 {
 	font-size: 120%;
 	margin: 10px 0px 8px 20px;}
-h1,h2,h3 {font-weight: 400;}
-#wrap {
-	color: #303030;}
+h1,
+h2,
+h3 {font-weight: 400;}
+
 #content {
 	text-align:left;
 	font-family: Archivo Narrow, sans-serif;}
@@ -57,6 +58,7 @@ h1,h2,h3 {font-weight: 400;}
 
 #landingsub {padding-left: 25px;}
 
+/* sidebar undecorated links including title and links list item */
 .ghostlinks a:hover {text-decoration: none;}
 
 .blockquote {
