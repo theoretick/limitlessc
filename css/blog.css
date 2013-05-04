@@ -1,5 +1,5 @@
 /*
-Original design based on Andreas Viklund's Basic Reader v1.0 xhtml/css template 
+Original design based on Andreas Viklund's Basic Reader v1.0 xhtml/css template
 For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
@@ -35,6 +35,9 @@ h1,
 h2,
 h3 {font-weight: 400;}
 
+blockquote {
+	font-style: italic;}
+
 #content {
 	text-align:left;
 	font-family: Archivo Narrow, sans-serif;}
@@ -61,6 +64,7 @@ h3 {font-weight: 400;}
 /* sidebar undecorated links including title and links list item */
 .ghostlinks a:hover {text-decoration: none;}
 
+/* slowly phasing out */
 .blockquote {
 	font-style: italic;
 	padding-left: 15px;
@@ -71,10 +75,28 @@ h3 {font-weight: 400;}
 	color: #2380a0;}
 
 /*link table for formatting me page "where i am" listings */
-.linktable {
+.me-table {
     text-align: left;
     width: 60%;
     padding-left: 15px;}
 
 #references {padding-left: 30px;}
+
+/* for in-line figures/captions */
+.align-center {
+	display: block;
+	margin: 0 auto;}
+
+ul.ul-toc {
+	list-style-type: square;
+	font-size: 120%;}
+}
+
+.occupy { }
+
+div.occupy-data {
+	font-style: italic;
+	margin-left: 30px;
+	padding-bottom: 15px;}
+
 

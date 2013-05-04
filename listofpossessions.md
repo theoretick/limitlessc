@@ -4,7 +4,8 @@ title: List of Possessions
 description: List of all owned possessions
 ---
 
-<p class="blockquote">Last updated 17apr2013<br />Current count: 89</p>
+<p><em>Last updated 17apr2013<br />
+Current count: 89 items</em></p>
 
 ###Non-consumables (term courtesy of 4-plates.com)###
 
@@ -35,13 +36,13 @@ description: List of all owned possessions
 		<tr><td>watch, Pebble black</td></tr>
 		<tr><td>TI-83+</td></tr>
 		<tr><td>projector w/ case, Planar PR3020</td></tr>
-		<tr><td>headphones, Shure Sound-Isolating earbuds SE115</td></tr>
+		<tr><td>headphones, Shure Sound-Isolating earbuds SE215k</td></tr>
 		<tr><td>Kindle Paperwhite, Amazon Wifi+3G</td></tr>
 		<tr><td>cellphone, spare flip - Nokia</td></tr>
 		<tr><td>laptop sleeve, Targus 13in</td></tr>
 		<tr><td>water bottle, klean canteen insulated</td></tr>
 		<tr><td>eye glasses, spare</td></tr>
-		<tr><td>Zeo sleep recorder</td></tr>
+		<tr><td>Zeo mobile sleep recorder</td></tr>
 		<tr><td>record player, Numark turntable</td></tr>
 		<tr><td>50x records</td></tr>
 		<tr><td>bicycle, Univega Maxima Sport</td></tr>
@@ -152,4 +153,4 @@ I miss my Vibram Five Fingers for their fantastic versatility and comfort but af
 
 Still working on getting rid of my my vinyl collection but both it and the record player are going to my brother, so I'll have to hold on to them for now lacking any sufficient place to store them.
 
-Regarding storage, I am never satisfied with bags and am constantly looking for a new EDC bag.  I've used backpacks, hiking packs, climber bags, messenger/book bags, biker messenger bags, and just about everything else. I have ended up with (for me the most surprising when making this list) a rather large number of EDC bags.  I'm working on pairing that down now but my rapidity changing bags after a couple months has made me hesitant to just up and buy one of the BIFL bags such as a <a href="https://www.goruck.com/" target="_blank">Goruck</a> or some such.
+Regarding storage, I am never satisfied with bags and am constantly looking for a new EDC bag.  I've used backpacks, hiking packs, climber bags, messenger/book bags, biker messenger bags, and just about everything else. I have ended up with (for me the most surprising when making this list) a rather large number of EDC bags.  I'm working on pairing that down now but my rapidity changing bags after a couple months has made me hesitant to just up and buy one of the BIFL bags such as a <a href="https://www.goruck.com/" target="_blank">Goruck</a>, Tom Bihn, or some such.
