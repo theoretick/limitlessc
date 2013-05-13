@@ -18,7 +18,7 @@ a:hover {text-decoration: underline;}
 p,
 ul,
 ol,
-dl {margin: 0px 0px 20px;}
+dl {margin: 0 0 20px;}
 
 h1 {
 	color: #972323;
@@ -30,7 +30,7 @@ h2 {
 	margin-bottom: 15px;}
 h3 {
 	font-size: 120%;
-	margin: 10px 0px 8px 20px;}
+	margin: 10px 0 8px 20px;}
 h1,
 h2,
 h3 {font-weight: 400;}
@@ -87,7 +87,7 @@ blockquote {
 	display: block;
 	margin: 0 auto;}
 
-ul.ul-toc {
+.ul-toc {
 	list-style-type: square;
 	font-size: 120%;}
 }
