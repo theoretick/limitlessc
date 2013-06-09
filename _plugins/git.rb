@@ -37,4 +37,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('gitactivity', Jekyll::GitActivityTag)
-
