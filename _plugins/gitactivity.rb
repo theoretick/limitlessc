@@ -9,7 +9,7 @@ require 'git'
 module Jekyll
   class GitActivityTag < Liquid::Tag
 
-    priority :high
+    #priority :high
 
     def initialize(tag_name, text, tokens)
       super
@@ -27,7 +27,7 @@ module Jekyll
           result << " - <a href='#{commit_url}"
           result << commit.sha
           result << "/'>"
-          result << commit.message
+          result << commit.message.slice(0..100)+'...'
           result << "</a></li>"
 
       end
