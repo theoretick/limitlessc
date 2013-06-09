@@ -9,6 +9,8 @@ require 'git'
 module Jekyll
   class GitActivityTag < Liquid::Tag
 
+    priority :high
+
     def initialize(tag_name, text, tokens)
       super
     end
