@@ -5,7 +5,7 @@
 #
 
 require 'git'
-#require './maxlength.rb'
+require_relative 'maxlength.rb'
 
 module Jekyll
 
