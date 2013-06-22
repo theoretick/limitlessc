@@ -1,5 +1,5 @@
 /*
-Original design based on Andreas Viklund's Basic Reader v1.0 xhtml/css template
+Based on Andreas Viklund's Basic Reader v1.0 xhtml/css template
 For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
@@ -10,9 +10,11 @@ body {
 	font-family: Archivo Narrow, sans-serif;
 	line-height: 150%;
 	font-size: 100%}
+
 a {
 	color:#972323;
 	text-decoration: none;}
+
 a:hover {text-decoration: underline;}
 
 p,
@@ -20,20 +22,23 @@ ul,
 ol,
 dl {margin: 0 0 20px;}
 
+h1,
+h2,
+h3 {font-weight: 400;}
+
 h1 {
 	color: #972323;
 	font-size: 200%;
 	line-height: 110%;}
+
 h2 {
 	font-size: 180%;
 	color: #2380a0;
 	margin-bottom: 15px;}
+
 h3 {
 	font-size: 120%;
 	margin: 10px 0 8px 20px;}
-h1,
-h2,
-h3 {font-weight: 400;}
 
 blockquote {
 	font-style: italic;}
@@ -41,16 +46,20 @@ blockquote {
 #content {
 	text-align:left;
 	font-family: Archivo Narrow, sans-serif;}
+
 #subtitle {
 	margin: 0px;
 	line-height: 150%}
 
 .sidebar {
 	padding-left: 10px;}
+
 .sidebar h1 { margin-top: 10px;}
+
 .sidebar ul {
 	list-style: none;
 	margin-left: 20px;}
+
 .sidebar li {
 	font-size: 120%;
 	line-height: 140%;}
@@ -82,7 +91,7 @@ blockquote {
 
 #references {padding-left: 30px;}
 
-/* for in-line figures/captions */
+/* for figures/captions */
 .align-center {
 	display: block;
 	margin: 0 auto;}
@@ -90,7 +99,9 @@ blockquote {
 .ul-toc {
 	list-style-type: square;
 	font-size: 120%;}
-}
+
+.ul-toc > li {
+  margin:5px;}
 
 .occupy { }
 
@@ -99,4 +110,8 @@ div.occupy-data {
 	margin-left: 30px;
 	padding-bottom: 15px;}
 
-
+img#pcs-rose {
+  display: inline-block;
+  height: 5%;
+  width: 5%;
+}

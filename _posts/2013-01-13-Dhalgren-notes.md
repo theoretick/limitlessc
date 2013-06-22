@@ -4,6 +4,7 @@ title: Dhalgren notes
 date: 2013-01-13
 category: essays
 tags:
+ - reviews
  - writing
  - books
  - notes
@@ -17,8 +18,8 @@ Have you ever read an author who writes with a style in seemingly singular harmo
 Dhalgren is epic. It's savage and fragmented in a way reminiscent of perhaps a less goofy Pynchon or the bevy of writers who practice schizophrenic writing yet feel compelled to add a sardonic wit (vonnegut, DFW, etc the list goes on). It's a style where one sees the sheer weight of our sensory overload and scrambles to capture every bit of it. There's unending chaos and it's both a colossal exercise and brutal expectation of the reader to stay aboard throughout yet (as chaos tends to do) at seemingly random the swarm shifts and sheer, clean beauty emerges. Swift and sudden it's these moments that put Dhalgren in radical light as a reflection of anxiety, self doubt, pleasure, and the purest elements that make one feel alive.  
 
 As the protagonist states early on to Lanya:  
-_"You should be afraid of me."_  
-_"I am. But I want to try out some things I'm afraid of. That's the only reason to be here."_
+<blockquote>"You should be afraid of me." </blockquote>
+<blockquote>"I am. But I want to try out some things I'm afraid of. That's the only reason to be here." </blockquote>
 
 I love cities.  Perhaps it is no wonder then that one of my literary passions is books about cities; they captivate whether they are the classic sites (yes, its a pun, deal with it) and sounds of a single day in Joyce's Ulysses, the deadened undercurrents Bret Easton Ellis' Less than Zero, or the nerdy force of Neil Stephenson's digital landscapes and depictions of "the raft" in Snow Crash.  I might even say that the majority of William Gibson's novels have (incidentally? perhaps not) captured my city-craze; he describes London through the eyes of an American as a "mirror-city" reflecting eerily of the almost universal westernized stylings in a global hub with double-takes over the blurred bits that don't quite fit.  Even Idoru seems an ode to the complexity and viral nature of the Japanese urbanism, even reflected through the pop culture virus of artificial celebrities.
 

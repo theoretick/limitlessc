@@ -13,15 +13,15 @@ tags:
 description: comparison of the eight main and currently available Android N-Back apps
 ---
 
-<p class="blockquote">My previous article describes N-Back a bit better for those who missed it or are interested: <a href="/main/2011/8/9/what-exactly-is-n-back.html" target="_blank">What Exactly is N-Back?</a></p>
+<blockquote>My previous article describes N-Back a bit better for those who missed it or are interested: <a href="/main/2011/8/9/what-exactly-is-n-back.html" target="_blank">What Exactly is N-Back?</a></blockquote>
 -----
 
-<p class="blockquote">Current as of 9 April 2012: Added reviews of "N-Back Maestro" and "Single N-Back"</p>
+<blockquote>Current as of 9 April 2012: Added reviews of "N-Back Maestro" and "Single N-Back"</blockquote>
 
-<p><strong>Bit of Background</strong>: Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer.  ;Best case scenario I find a universally-compatible program with a desktop and mobile component.  ;While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on.  ;Until I perfect that script anyway, I will stick entirely to my Android phone.  ;Which app is the best? Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
+<p><strong>Bit of Background</strong>: Now that I've finally started putting in daily N-Back sessions and just like the rest of my life, I've been slowly converting everything to mobile so I can handle all my tasks away from a computer.  Best case scenario I find a universally-compatible program with a desktop and mobile component.  While that part is still severely lacking (nothing here has a desktop equivalent) there are some rough hacks involving dropbox that I have been working on.  Until I perfect that script anyway, I will stick entirely to my Android phone.  Which app is the best? Well as of August 10th, I've tried all the dedicated ones and even the paid ones. So, on to the comparison.</p>
 <br />
 
-<p>There are currently 8 main candidates in the app market: Quazar's <a href="https://play.google.com/store/apps/details?id=quazar.BrainNBack" target="_blank">Brain N Back</a>, Nguyen's <a href="https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback" target="_blank">Brain N-Back</a>, Polytech's <a href="https://play.google.com/store/apps/details?id=com.Projet4A.DualNBack" target="_blank">DualNBack</a>, and Piotr's <a href="https://play.google.com/store/apps/details?id=cz.wie.p.nback" target="_blank">N-Back</a>.  Given the complete lack of creative naming this review might get absurdly confusing, so I'll try and use the author's name for these.  Later I was still a bit unsatisfied and decided to test a few more. I have since included <a href="https://play.google.com/store/apps/details?id=waterdev.NBack" target="_blank">Waterdev's NBack</a>, <a href="https://play.google.com/store/apps/details?id=appinventor.ai_viana_octavio.IQ_Boost" target="_blank">IQBoost</a>, Urbian's <a href="https://play.google.com/store/apps/details?id=org.urbian.android.games.nback" target="_blank">N-Back Maestro</a>, and Martin Ankeri's <a href="https://play.google.com/store/apps/details?id=com.ankerl.singlenback" target="_blank">Single N-Back</a></p>
+<p>There are currently <s> six</s> eight main candidates in the app market: Quazar's <a href="https://play.google.com/store/apps/details?id=quazar.BrainNBack" target="_blank">Brain N Back</a>, Nguyen's <a href="https://play.google.com/store/apps/details?id=phuc.entertainment.dualnback" target="_blank">Brain N-Back</a>, Polytech's <a href="https://play.google.com/store/apps/details?id=com.Projet4A.DualNBack" target="_blank">DualNBack</a>, and Piotr's <a href="https://play.google.com/store/apps/details?id=cz.wie.p.nback" target="_blank">N-Back</a>.  Given the complete lack of creative naming this review might get absurdly confusing, so I'll try and use the author's name for these.  Later I was still a bit unsatisfied and decided to test a few more. I have since included <a href="https://play.google.com/store/apps/details?id=waterdev.NBack" target="_blank">Waterdev's NBack</a>, <a href="https://play.google.com/store/apps/details?id=appinventor.ai_viana_octavio.IQ_Boost" target="_blank">IQBoost</a>, Urbian's <a href="https://play.google.com/store/apps/details?id=org.urbian.android.games.nback" target="_blank">N-Back Maestro</a>, and Martin Ankeri's <a href="https://play.google.com/store/apps/details?id=com.ankerl.singlenback" target="_blank">Single N-Back</a></p>
 
 <p class="blockquote">A note on feedback: I think the feedback feature can be detrimental to the exercise since it is too easy to get caught up mid-task and analyze one's correct or incorrect move, affecting the spontanaeity and focus of the exercise. Feedback can be useful occasionally for "calibrating" oneself to the new N- turn variable, but otherwise I believe should be avoided, hence I do not tend to mention it as a feature here.</p>
 <br />
@@ -45,9 +45,9 @@ description: comparison of the eight main and currently available Android N-Back
 <p> + Both daily and overrall statistics</p>
 <p> - <strong><em>Detailed</em></strong> daily statistics only, not overrall statistics or ability to reference old days individually</p>
 <p> - Fewer settings; i.e. No session limit per day</p>
-<p> - Ads.  ;But removable with premium version</p>
-<p class="ratings">Rating: 8 / 10</p>
+<p> - Ads.  But removable with premium version</p>
 <p>** Interesting feature note: Audio stimulus can be changed from letters to piano notes!</p>
+<p class="ratings">Rating: 8 / 10</p>
 <br />
 
 <p><strong><span style="text-decoration: underline;">Polytech Marseille's DualNBack (free):</span></strong></p>
@@ -115,8 +115,8 @@ description: comparison of the eight main and currently available Android N-Back
 <p> - Unique style. Audio stimulus uses farm animals rather than letters or numbers</p>
 <p> + Allows for variable duration, which may or may not actually be useful</p>
 <p> - Statistics?</p>
+<p>** Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version;" I have no idea what that is and there's no description.</p>
 <p class="ratings">Rating: 5 / 10</p>
-<p class="blockquote">**Interesting feature note: IQ Boost also comes in a "boys name version" and "girls name version;" I have no idea what that is and there's no description.</p>
 <br />
 
 <h3>The Winner:</h3>
