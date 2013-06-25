@@ -19,10 +19,10 @@ module Jekyll
       result = ""
       git_base = Git.open(File.join(Dir.getwd, "."))
       commit_url = git_base.remote.url.gsub(/\.git/, %q{/commit/})
-      displayed_commits = 2
+      displayed_commits = 1
 
       git_base.log(displayed_commits).each do |commit|
-          result << "<li>"
+          result << "<li class='gitactivity'>"
           result << commit.date.strftime("%d%b")
           result << " - <a href='#{commit_url}"
           result << commit.sha
