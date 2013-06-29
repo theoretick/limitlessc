@@ -117,6 +117,14 @@ img#pcs-rose {
 }
 
 .gitactivity {
-	text-align: justify;
-	font-size: 20%;
+	text-align: right;
+}
+
+li.gitactivity {
+  font-size: 90%;
+}
+
+h4.gitactivity {
+  font-weight: bold;
+  font-size: 100%;
 }
