@@ -4,8 +4,16 @@
 # credit: modified code and original idea from github.com/alx
 #
 
+unless Kernel.respond_to?(:require_relative)
+  module Kernel
+    def require_relative(path)
+      require File.join(File.dirname(caller[0]), path.to_str)
+    end
+  end
+end
+
 require 'git'
-require '_plugins/maxlength'
+require_relative 'maxlength'
 
 module Jekyll
 
