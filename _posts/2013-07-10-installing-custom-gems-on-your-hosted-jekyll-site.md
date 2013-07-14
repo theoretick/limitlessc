@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Installing custom gems on your hosted Jekyll blog
-date: 2013-05-26
+date: 2013-07-10
+category: code
 tags:
  - jekyll
  - webdev
