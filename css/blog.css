@@ -128,3 +128,8 @@ h4.gitactivity {
   font-weight: bold;
   font-size: 100%;
 }
+
+// for unord-lists on nback comparison
+.no-decoration {
+  list-style-type: none;
+}
