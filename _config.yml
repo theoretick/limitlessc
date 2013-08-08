@@ -3,3 +3,4 @@
 #
 
 destination: /home/public/
+pygments: true
