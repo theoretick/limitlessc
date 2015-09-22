@@ -1,6 +1,10 @@
-#
-#
-#
+# Site settings
+title: limitless channels
+email: me@lucascharles.me
+url: "http://limitlesschannels.com" # the base hostname & protocol for your site
+twitter_username: theoretick
+github_username:  theoretick
 
-destination: /home/public/
-pygments: true
+# Build settings
+markdown: kramdown
+highlighter: true
